@@ -1,0 +1,2295 @@
+text	label
+I think my card payment has been reverted	reverted_card_payment?
+Do cash machines let me change my pin?	change_pin
+HOW DO I TRANSFER MONEY FROM MY BANK ACCOUNT?	transfer_into_account
+I can't figure out how to unblock my pin number. Can you help me?	pin_blocked
+I withdrew $100 but only received $20	wrong_amount_of_cash_received
+Why isn't my card working? I was pumped to use my new card but it keeps getting declined. Help please.	declined_card_payment
+why couldn't I use my card at a store?	declined_card_payment
+how do i avoid charges in the future	card_payment_fee_charged
+My card is not working when I try to use it.	card_not_working
+I made a payment with my card that was cancelled?	reverted_card_payment?
+Can you help me figure out what's happening? I'm trying to transfer money to a friend but it keeps getting returned. I'm not sure what i'm doing wrong.	failed_transfer
+I've made a bank transfer but the money doesn't seem to be in my account.	balance_not_updated_after_bank_transfer
+What exchange rate is it?	exchange_rate
+Do I get charged if I am receiving money?	top_up_by_bank_transfer_charge
+The correct amount of cash was not received.	wrong_amount_of_cash_received
+What is the fee on my card payment?	card_payment_fee_charged
+How do I get my disposable virtual card to work?	virtual_card_not_working
+My card suddenly quit working.	card_not_working
+Why is my transfer taking so long to complete?	transfer_not_received_by_recipient
+I am missing a refund.	Refund_not_showing_up
+I should have received a refund however it is not showing on my statement	Refund_not_showing_up
+How do you determine exchange rates?	exchange_rate
+What do you do to transfer money to my account?	transfer_into_account
+Let me know when applying extra charges for payments. I just checked the app and saw a fee that I wasn't warned about.	card_payment_fee_charged
+My PIN can't access my card, can you help?.	pin_blocked
+Why did my transfer not go through?	failed_transfer
+How can i check if my card is working?	card_not_working
+I sent money to a person and they haven't received the payment yet.	transfer_not_received_by_recipient
+I would like a virtual card- where can I purchase one?	getting_virtual_card
+I want to transfer money from another account into this one.	transfer_into_account
+If I get a transfer from Europe, how long until it is in my account?	transfer_timing
+What is the time frame for a transfer from the US?	transfer_timing
+I am trying to transfer money and something is going wrong.	failed_transfer
+Why has my card payment been cancelled?	reverted_card_payment?
+I have completed a transfer but it is not showing up.	balance_not_updated_after_bank_transfer
+How much would I be charged for a transfer?	top_up_by_bank_transfer_charge
+How can I get cash back? The ATM just gave me the wrong amount that I've been actually charged though...	wrong_amount_of_cash_received
+I sent some money and the account hasn't recived the transfer I made.	transfer_not_received_by_recipient
+I entered in the wrong PIN.  Please help me unlock my account.	pin_blocked
+I received the wrong amount of cash.	wrong_amount_of_cash_received
+My latest payment was declined, I was told everything was back to working order. What happened?	declined_card_payment
+Which cash machines will allow me to change my PIN?	change_pin
+What is the process for unlocking the pin?	pin_blocked
+How come my money hasn't shown up yet?	transfer_not_received_by_recipient
+What are the exchange rates you assign?	exchange_rate
+I sent money to my family last Friday but they don't have it.	transfer_not_received_by_recipient
+Who charged me a fee for paying by card?	card_payment_fee_charged
+What are Interbanks current exchange rates?	exchange_rate
+I would like to top up my account with a bank transfer, is that allowed?	transfer_into_account
+How much will it be in order to pay with a bank transfer using SEPA?	top_up_by_bank_transfer_charge
+i tried using a virtual card for a hotel but it didn't work, why not	disposable_card_limits
+How do your exchange rates factor in?	exchange_rate
+Does the exchange rate change?	exchange_rate
+The card I've got seems to be broken.	card_not_working
+My transfer did not go through.	failed_transfer
+I am just waiting for the transaction to be completed.	transfer_not_received_by_recipient
+when will the balance on my account change form a transfer	balance_not_updated_after_bank_transfer
+I managed to drunken block my card :(( Help!	pin_blocked
+What is the limits on the number of disposable cards I can have?	disposable_card_limits
+Where is my refund? I have been checking my account all day.	Refund_not_showing_up
+Help me.  My card doesn't work.	card_not_working
+How long does it take for a transfer to show up in my account?	transfer_timing
+Tell me what ATMs allow me to change my PIN.	change_pin
+I made a bank transfer but it doesn't seem to have gone through?	balance_not_updated_after_bank_transfer
+Why isn't my refund shown on my statement?	Refund_not_showing_up
+Is it possible to get a transfer from SWIFT?	top_up_by_bank_transfer_charge
+My transfer failed	failed_transfer
+I shouldn't have been charged but I see a fee, why?	card_payment_fee_charged
+How long to UK transfers usually take? I made a transfer but it didn't pop up in my history yet. I just want to make sure it went through.	balance_not_updated_after_bank_transfer
+WHAT IS THE MAIN REASON OF THIS PROBLEM	card_not_working
+I don't see the transaction I made to a friend on my account.	transfer_not_received_by_recipient
+Is there a charge for getting my money?	top_up_by_bank_transfer_charge
+I don't see any change in my balance.	balance_not_updated_after_bank_transfer
+Can third party fees affect a transfer?	top_up_by_bank_transfer_charge
+How do you do exchanges?	exchange_rate
+Is it possible for me to get a virtual card?	getting_virtual_card
+Can I Transfer from SWIFT?	top_up_by_bank_transfer_charge
+what is the average wait for transfers	transfer_timing
+I got a transfer fail message, but no explanation of why-- what happened?	failed_transfer
+I'm not sure what is going on here. I've received payment back into my account  for an item I've already received, from about 2 weeks ago.	reverted_card_payment?
+I haven't received money from a transfer?	transfer_not_received_by_recipient
+I don't understand how to top up my account, can you please explain the process?	transfer_into_account
+I added money through a bank transfer and it is not showing in my balance.	balance_not_updated_after_bank_transfer
+Why am I being charged a hidden fee?	card_payment_fee_charged
+why do your exchange rates change	exchange_rate
+I am wondering about a transfer from a different country that doesn't show up yet?	balance_not_updated_after_bank_transfer
+My refund is not here yet	Refund_not_showing_up
+What number of transactions can i do with one disposable card?	disposable_card_limits
+How long until transfers from Europe go through?	transfer_timing
+I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong?	failed_transfer
+I need to transfer funds into my account. How can I do this?	transfer_into_account
+Why did I get charged extra?	card_payment_fee_charged
+Where can I go to get my PIN unblocked?	pin_blocked
+my friend has not got the money I sent last week.	transfer_not_received_by_recipient
+How long is it going to take for my funds to show in my account?	transfer_timing
+I already have an account. Why can't I use it unless my identity is verified?	why_verify_identity
+Do you know how to change my card PIN?	change_pin
+can you tell me why my transfer failed?	failed_transfer
+I am at the ATM and tried to withdraw 30 pounds and it only gave me 10 pounds, what do I do?	wrong_amount_of_cash_received
+I only got $20 of the $100 that I attempted to withdraw.	wrong_amount_of_cash_received
+Where can virtual cards be ordered?	getting_virtual_card
+what happens to the funds if a merchant refuses the payment	reverted_card_payment?
+What stopped my transfer, from being accepted?	failed_transfer
+How can I fix my bank transfer to show up on my bank account?	balance_not_updated_after_bank_transfer
+Why is the refund not on my statement?	Refund_not_showing_up
+what is the status of my refund	Refund_not_showing_up
+How many disposable cards can I make in a single day?	disposable_card_limits
+How long does it take for money to reach my account?	balance_not_updated_after_bank_transfer
+Why hasn't the transaction I did to my friend arrive yet?	transfer_not_received_by_recipient
+Will you deal with SWIFT transfers?	top_up_by_bank_transfer_charge
+How long will an urgent transfer from China take?	transfer_timing
+I cannot view the refunded amount in my account.	Refund_not_showing_up
+What fees apply when using a card?	card_payment_fee_charged
+Can you tell me if there are limits to disposable virtual cards?	disposable_card_limits
+The transfer I made isn't reflected in my balance	balance_not_updated_after_bank_transfer
+Is there a longer processing time for international bank transfers?	balance_not_updated_after_bank_transfer
+How are exchange rates determined?	exchange_rate
+I am missing my refund.	Refund_not_showing_up
+My new card keeps getting declined. I was very excited to use it for the first time today. Why is this doing this?	declined_card_payment
+want to know how to get virtual card	getting_virtual_card
+I tried withdrawing but my cash is not showing up?	wrong_amount_of_cash_received
+Can someone assist me by explaining why my card is not working?	card_not_working
+Since my pin is blocked, would you help me unblock it?	pin_blocked
+Where do I find a virtual card?	getting_virtual_card
+Are there restrictions on disposable virtual cards?	disposable_card_limits
+How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.	card_payment_fee_charged
+What are you exchange rates?	exchange_rate
+What is the current exchange rate?	exchange_rate
+I want to use bank transfer for topping up my account. How is it handled?	transfer_into_account
+What are the additional charges for a SWIFT transfer?	top_up_by_bank_transfer_charge
+Can you assist me in acquiring a virtual card?	getting_virtual_card
+When will I be able to see my refund?	Refund_not_showing_up
+What kind of fee is there to top-up my account?	top_up_by_bank_transfer_charge
+How are exchange rates calculated at this bank?	exchange_rate
+I would like to order a virtual card, where can I get one?	getting_virtual_card
+How long will it take to transfer something to China urgently?	transfer_timing
+How come the money from the merchant appeared back into my account?	reverted_card_payment?
+My card won't work.	card_not_working
+How long does it take transfers from Europe to complete?	transfer_timing
+How are the exchange rates determined?	exchange_rate
+The atm didn'y give me all the cash	wrong_amount_of_cash_received
+How do you decide what the exchange rates are?	exchange_rate
+I did a money transaction and the recipient doesn't see it	transfer_not_received_by_recipient
+It's been more than a week since I had a return charged to my card, why hasn't it showed up?	Refund_not_showing_up
+Is my card payment reverted?	reverted_card_payment?
+How can I transfer money between accounts?	transfer_into_account
+How long should a transfer normally take to process completely? I have a friend that needs it right away, but it's already been 2 hours and she hasn't received it.	transfer_not_received_by_recipient
+The payment for the card did not go through	declined_card_payment
+Do I have to verify my identity?	why_verify_identity
+I can not seem to make a successful transfer, can you tell me what I'm doing wrong?	failed_transfer
+I transferred some money but it hasn't arrived yet	balance_not_updated_after_bank_transfer
+I would like to order a virtual card.	getting_virtual_card
+Are there any limits to how many disposable cards I can use?	disposable_card_limits
+how long dies it take for transfers to reflect on my balance	transfer_timing
+Will declined funds I tried to withdraw be returned to me?	wrong_amount_of_cash_received
+How long will it take for the money to reach my account?	transfer_timing
+I can't seem to be able to use my card	card_not_working
+I NEED TO KNOW HOW TO TRANSFER MONEY INTO MY BANK ACCOUNT. PLEASE HELP	transfer_into_account
+Are virtual cards available to get?	getting_virtual_card
+My card payment was cancelled.	reverted_card_payment?
+What us the fee to transfer money from my bank?	top_up_by_bank_transfer_charge
+There is an unauthorized fee.	card_payment_fee_charged
+I was charged a fee when buying stuff with my card.	card_payment_fee_charged
+Please tell me how I can get a virtual card.	getting_virtual_card
+Can you tell me what the problem with my card is? It was declined at a restaurant today.	card_not_working
+How do I go forth with bank transfers for top up accounts?	transfer_into_account
+Why was I charged an extra fee when using the card?	card_payment_fee_charged
+how come when i asked for 100 it only gave me 20.00 in the app	wrong_amount_of_cash_received
+I couldnt transfer money from my account.	failed_transfer
+Hello. I bought an item a while ago, and have since requested a refund.  However, upon checking my online statements, it seems that I haven't been issued a refund yet.  How can this be remedied?	Refund_not_showing_up
+How long does it take for money to transfer?  I sent some to a friend and it hasn't gone through yet.	transfer_not_received_by_recipient
+I would like to make a transfer. How much does it cost?	top_up_by_bank_transfer_charge
+Does a US transfer take long	transfer_timing
+Is there a specific source that the exchange rate for the transfer I'm planning on making is pulled from?	exchange_rate
+I can't get my card to work.	card_not_working
+Do I have to do the identity check?	why_verify_identity
+My card doesn't work when I use it.	card_not_working
+I dont know what happened, but my payment was cancelled	reverted_card_payment?
+I didn't cancel my card payment.	reverted_card_payment?
+I just checked and my payment was cancelled, why?	reverted_card_payment?
+Where do I have access to a virtual card?	getting_virtual_card
+How do you decide what your exchange rates are?	exchange_rate
+How does the exchange rate work on this app?	exchange_rate
+I show another charge on my card from when I used it, why?	card_payment_fee_charged
+How do I go about getting hold of a virtual card?	getting_virtual_card
+I can't get my actual card to work	card_not_working
+Am I able to do a SWIFT transfer?	top_up_by_bank_transfer_charge
+Does it cost anything to transfer money for a top-up?	top_up_by_bank_transfer_charge
+My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined?	card_not_working
+Why can't I use my virtual card for subscription services?	virtual_card_not_working
+Three months ago I bought a new house for my cat, fluffy.  Unfortunately Fluffy was not a fan of the house and it had to be returned to Pet Smart last week.  They said they have sent a refund but it's not there, can you tell me where it is?	Refund_not_showing_up
+Why didn't my transfer get to the recipient?	transfer_not_received_by_recipient
+What'll it charge me for a SEPA transfer?	top_up_by_bank_transfer_charge
+Is the identity check part of bank policy?	why_verify_identity
+What should I do if my physical card isn't working?	card_not_working
+How will I know when I get my refund?	Refund_not_showing_up
+How limited is a virtual card?	disposable_card_limits
+I normally don't use ATMs, but I was in a rush today and had to withdraw some cash. The ATM gave me the wrong amount of money and now my app is not showing the same amount as it should. What do I do?	wrong_amount_of_cash_received
+Hi! A seller that I requested a refund from a long time ago has yet to send the money into my account, even though I keep checking it. Can the seller be contacted by you guys to see what's going on?	Refund_not_showing_up
+Can I add money to top up my account via a bank transfer?	transfer_into_account
+How do I avoid getting charged a fee on my card?	card_payment_fee_charged
+And do you have virtual cards instead of physical ones?	getting_virtual_card
+How are the exchange rates for transfers calculated?	exchange_rate
+Transfer has failed.	failed_transfer
+How long does a UK transfer take?	balance_not_updated_after_bank_transfer
+I'm in Austria right now, but I really need to change my PIN right now. Can I do this even though I'm in another country?	change_pin
+How do I unblock my card?	pin_blocked
+I need to create several disposable cards per day.	disposable_card_limits
+Why can't I make a transfer?	failed_transfer
+How's the exchange rate looking right now?	exchange_rate
+Will I be charged for a SEPA transfer?	top_up_by_bank_transfer_charge
+I want to top up by transfering accounts, What do I do?	transfer_into_account
+I want one of those virtual cards!	getting_virtual_card
+Someone stopped my payment	reverted_card_payment?
+I have a fee showing from last time I used my card.	card_payment_fee_charged
+Why was my payment declined? I keep trying my card but it's not working.	declined_card_payment
+What does it mean if my payment was reverted?	reverted_card_payment?
+I received a different amount of cash than what I entered.	wrong_amount_of_cash_received
+Why do you require so many identity details?	why_verify_identity
+what is the disposable cards limit?	disposable_card_limits
+Where can I use a disposable card?	disposable_card_limits
+Why is my physical card not working?	card_not_working
+Transfers from the US how long will the wait be?	transfer_timing
+How do I receive a virtual card?	getting_virtual_card
+I would like some help getting a refund back from a seller. It still isn't showing up on my statement and I requested this a long time ago. I'm not sure why it's not returned yet. Can you assist me in getting this money back?	Refund_not_showing_up
+What caused my transfer to fail?	failed_transfer
+I want to know your exchange rates.	exchange_rate
+How much time do transfers take? I sent money to a friend who needs it fast. It's been hours, and the money has not gone through.	transfer_not_received_by_recipient
+I haven't received my virtual card yet!!	getting_virtual_card
+I couldn't pay with card in a shop	declined_card_payment
+Is there a  way to  get around fees	card_payment_fee_charged
+Do i have to verify who I am?	why_verify_identity
+Where did your guys exchange rates come from?	exchange_rate
+Why have i been charged a fee for using my card?	card_payment_fee_charged
+My new pin needs to be set.	change_pin
+Why is my disposable virtual card being denied?	virtual_card_not_working
+Can my PIN changed remotely without visiting a bank?	change_pin
+Why is it required to verify my identity?	why_verify_identity
+I really wanted to buy something online but seems the card is not working as the payment suddenly came back! What's going on here, I've been trying for a good week or two.	reverted_card_payment?
+Why has my card payment been reverted?	reverted_card_payment?
+Why did I get charged a fee on my card?	card_payment_fee_charged
+I would like to change my pin.	change_pin
+What limits are there on the virtual cards?	disposable_card_limits
+I made a payment and it was reverted and wanted to know why?	reverted_card_payment?
+Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!	failed_transfer
+I need to order a new virtual card, how do I do that?	getting_virtual_card
+Machines make mistakes too! The ATM gave me the wrong amount of money. Too much!	wrong_amount_of_cash_received
+My transfer didn't arrive to the recipient	transfer_not_received_by_recipient
+Why have you declined my card payment?	declined_card_payment
+I didn't receive the correct amount of cash	wrong_amount_of_cash_received
+I don't want to verify my identity	why_verify_identity
+Hey, I try to make a bank transfer from my UK account a few hours ago, but it haven't show up yet. Please check my account to make sure everything alright with it?	balance_not_updated_after_bank_transfer
+i was supposed to get a refund but my balance hasn't changed, why not?	Refund_not_showing_up
+why and how soon do I have to have proof of identity to you?	why_verify_identity
+I can't get the card itself to work.	card_not_working
+I want to transfer money into my account, what do I do?	transfer_into_account
+I wanted to take out $100 but I only got $20.	wrong_amount_of_cash_received
+Where can I find instructions to change my PIN?	change_pin
+when should I receive my refund	Refund_not_showing_up
+I want a new PIN please.	change_pin
+I would like to change my card PIN.	change_pin
+Yikes!  I didn't get the amount of money that I requested.  What do I do now?	wrong_amount_of_cash_received
+Do I need to verify my identity each time I wish to use my account?	why_verify_identity
+What's going on? My card wont accept any transactions.	card_not_working
+i need a refund from you because the merchant is refusing, can you do that?	Refund_not_showing_up
+How can I link my bank to my top up account?	transfer_into_account
+I think my card payment was reverted	reverted_card_payment?
+My disposable virtual card doesn't seem to work	virtual_card_not_working
+On a card payment, why is there a fee?	card_payment_fee_charged
+How long do I need to wait to see an update after I make a bank transfer?	balance_not_updated_after_bank_transfer
+It has been a couple of hours but I do not see my balance updated, can you help?	balance_not_updated_after_bank_transfer
+My latest transfer seems to be missing.	balance_not_updated_after_bank_transfer
+Hi, I used an ATM today to take money out of my account, but the amount it gave me is not the amount I requested. What should I do?	wrong_amount_of_cash_received
+What do I do if I completed a money transfer but the recipient hasn't received it?	transfer_not_received_by_recipient
+Can you tell me why my card keeps getting declined every time I try to use it?	declined_card_payment
+My card is not working at stores.	declined_card_payment
+Will I be charged a fee for a SEPA transfer?	top_up_by_bank_transfer_charge
+Are there any restrictions on the disposable cards?	disposable_card_limits
+I am still waiting for a transfer I did	balance_not_updated_after_bank_transfer
+I've tried completing a very standard transfer and have already attempted it 5 times. What's going on here? Is there a problem with your system?	failed_transfer
+"
+How do I unblock my PIN?"	pin_blocked
+What is the reason for the identity check	why_verify_identity
+I need to transfer money into my account, how do I go about doing this?	transfer_into_account
+I don't understand why you want so much of my personal info.	why_verify_identity
+How long does it take to get money from Europe?	transfer_timing
+I need my PIN unlocked.	pin_blocked
+My money transaction hasn't arrived.	transfer_not_received_by_recipient
+I want to do a bank transfer to this bank, from an account at another bank.	transfer_into_account
+Show me how to change my pin?	change_pin
+The exchange rate would be?	exchange_rate
+from where are coming your exchange rates?	exchange_rate
+I did not get all the cash at ATM.	wrong_amount_of_cash_received
+Is there an issue with my card payment as it has not gone through.	declined_card_payment
+If my card payment isn't working what do I do?	declined_card_payment
+Is there a limit to the number of disposable cards per day?	disposable_card_limits
+Why do you need to check my identity?	why_verify_identity
+I need help with understanding why my card is not working.	card_not_working
+After I used my card I saw I was charged a fee for using it	card_payment_fee_charged
+What does it cost to receive a SEPA transfer?	top_up_by_bank_transfer_charge
+What are the restrictions on the virtual cards?	disposable_card_limits
+What does a transfer cost?	top_up_by_bank_transfer_charge
+Will I always be charged a fee for using my card?	card_payment_fee_charged
+How does a bank transfer for topping my account work?	transfer_into_account
+why did my payment revert	reverted_card_payment?
+How long will it take to get my refund	Refund_not_showing_up
+Are their certain cash machines where I can change my pin?	change_pin
+The balance has not been updated.	balance_not_updated_after_bank_transfer
+Give me a refund now!! I am still waiting.	Refund_not_showing_up
+I recently transferred money to my account when will it show up?	balance_not_updated_after_bank_transfer
+I see I was charged extra when I used the card.  I am not sure why, please tell me why.	card_payment_fee_charged
+What is the base of the exchange rates?	exchange_rate
+How can I request cash back? The ATM just gave me a different amount than what I've been charged though...	wrong_amount_of_cash_received
+I was just giving the wrong amount by the ATM. How do I request cash back at this point? The app is showing the amount that I actually requested even though that's not what I got.	wrong_amount_of_cash_received
+I would like to transfer funds from one account to another.	transfer_into_account
+Is the system down? I've been trying to do a transfer and have failed?	failed_transfer
+What is the amount of time transfers usually take from the UK? I had just completed a transfer and nothing seems to be showing up so I need to be sure things are alright.	balance_not_updated_after_bank_transfer
+My card doesn't seem to work.	card_not_working
+My cash transaction isn't showing on my account	transfer_not_received_by_recipient
+The card payment is declined.  Please inform me why.	declined_card_payment
+I just got refunded for my purchase over two weeks ago	reverted_card_payment?
+How many disposable cards is the limit?	disposable_card_limits
+Are there a certain amount of transactions i can do with one disposable card?	disposable_card_limits
+Can I use my account although my identity verification has yet to pass?	why_verify_identity
+Are there any charges for receiving money?	top_up_by_bank_transfer_charge
+My refund for a purchase hasn't  cone through yet.	Refund_not_showing_up
+Currently my card is broken.	card_not_working
+I want to change my PIN - do I need to be in a bank?	change_pin
+How long does a bank transfer take to show up in available funds?	balance_not_updated_after_bank_transfer
+I didn't receive the right amount of cash back	wrong_amount_of_cash_received
+Why are you asking so many questions about who I am	why_verify_identity
+Will I be charged for topping up my account using a bank transfer?	top_up_by_bank_transfer_charge
+I think my card payment was cancelled. What happened?	reverted_card_payment?
+Why didn't my transfer go through?	failed_transfer
+Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.	declined_card_payment
+I bought something with my card and I was charged a fee	card_payment_fee_charged
+Help me change my PIN.	change_pin
+I got charged a service fee on my account. Can it be waived since I didn't know about it before?	card_payment_fee_charged
+How can I go about ordering a virtual card?	getting_virtual_card
+Explain the payment that was declined!	declined_card_payment
+Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?	declined_card_payment
+My virtual card isn't working.	virtual_card_not_working
+I do not feel comfortable verifying my identity.	why_verify_identity
+How long will it take to refund me	Refund_not_showing_up
+I would like to use the bank transfer feature, but I can't find it. Can you please give me the details?	transfer_into_account
+Is there a reason a payment is showing complete on my side but the person who is receiving it has not gotten it?	transfer_not_received_by_recipient
+How can I fix a problem where my virtual card is rejected?	virtual_card_not_working
+Why would the app revert my payment?	reverted_card_payment?
+My card couldn't pay in a shop.	declined_card_payment
+What is the procedure of unblocking my PIN?	pin_blocked
+What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.	wrong_amount_of_cash_received
+I need to transfer funds from China and quick expedition is crucial. Approximately how long does it take for a transfer from China to go through?	transfer_timing
+Where is the transfer that I did?	balance_not_updated_after_bank_transfer
+Money is not in recipients account.	transfer_not_received_by_recipient
+The amount of cash I received was incorrect	wrong_amount_of_cash_received
+I need some money transferred ASAP, how long does the process take?	transfer_timing
+Do I have to go to an actual bank to change my PIN?	change_pin
+I cancelled my card payment	reverted_card_payment?
+"
+Do I need to go to a physical bank to change my PIN?"	change_pin
+Why would a merchant revert my payment?	reverted_card_payment?
+I need my virtual card	getting_virtual_card
+Can I use a bank transfer to add money to my account?	transfer_into_account
+I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?	reverted_card_payment?
+Hello. Please, would you tell me if you have or have not received funds for a refund that I recently requested for a big purchase? I've contacted the merchant, but I can't tell that they have taken any action on it.	Refund_not_showing_up
+Why was I charged a fee? I thought shopping was free?	card_payment_fee_charged
+Why would a card payment be declined?	declined_card_payment
+My virtual card is just not going through.	virtual_card_not_working
+I selected to withdrawal 30 pounds but only received 10. I'm still standing in front of the ATM. The app shows i took out 30 pounds also. How do i fix this?	wrong_amount_of_cash_received
+My card payment was reverted, why?	reverted_card_payment?
+Why do you need me to do an identity check?	why_verify_identity
+A shop I go to didn't let me pay.	declined_card_payment
+Was my card payment reverted?	reverted_card_payment?
+Could you please tell me your exchange rates?	exchange_rate
+I want one of the virtual cards!	getting_virtual_card
+I have a payment listed as cancelled.	reverted_card_payment?
+I am locked out from entering my pin.	pin_blocked
+I'm at an ATM and withdrew 30 pounds and was only given 10. What should I do?	wrong_amount_of_cash_received
+What do I need to do to change my PIN?	change_pin
+When will I be able to see the refund	Refund_not_showing_up
+The payment I made with my card is not showing up.	reverted_card_payment?
+I'm getting concerned here.  I sent a friend some money and she isn't seeing it.  What's going on?	transfer_not_received_by_recipient
+I didn't get the right amount at the ATM.	wrong_amount_of_cash_received
+My card payment did not work.	declined_card_payment
+How can I get my physical card to work?	card_not_working
+Did a card payment that I made get cancelled?	reverted_card_payment?
+Why did my payment go back to my account when I bought something?	reverted_card_payment?
+Can I use my account now, even though my identity verification has not gone through yet?	why_verify_identity
+Can I unblock my PIN in the app?	pin_blocked
+How long will a transfer from Europe take?	transfer_timing
+I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?	card_payment_fee_charged
+I'd like to know what you guys look at to decide an exchange rate	exchange_rate
+Are there downsides to using a disposable virtual cards?	disposable_card_limits
+Currently I can't get my card to work.	card_not_working
+How long does it take for transfers to process?  I sent funds to a friend, and she says that she has not yet received anything.	transfer_not_received_by_recipient
+What are the disposable card limits?	disposable_card_limits
+how do I speed up identity verification?	why_verify_identity
+what are exchange rates	exchange_rate
+Why haven't I been given a virtual card yet?	getting_virtual_card
+What are the disposable virtual card limits?	disposable_card_limits
+How do I top up my card?	transfer_into_account
+Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?	reverted_card_payment?
+How long before a bank transfer shows up in the account?	balance_not_updated_after_bank_transfer
+Can you tell me your exchange rates?	exchange_rate
+I got charged for with a fee for paying with my card.	card_payment_fee_charged
+Hello. Can you help figure out why the recent transfer from my UK bank account isn't showing up?	balance_not_updated_after_bank_transfer
+what I need to verify my account	why_verify_identity
+I just finished sending money, but it's not logging on the recipient side.	transfer_not_received_by_recipient
+When will my transfer be in my account?	transfer_timing
+Why doesn't my disposable virtual card work?	virtual_card_not_working
+How does the exchange rate work?	exchange_rate
+How do I make more than one disposable card in a day?	disposable_card_limits
+Where can I find a virtual card?	getting_virtual_card
+Please tell me why I would have to pay a fee for a recent payment. Thanks.	card_payment_fee_charged
+How long will it take to receive my money from my transfer transaction?	transfer_not_received_by_recipient
+What are the reasons why a card payment would be declined?	declined_card_payment
+How do I change my card PIN?	change_pin
+I have received my statement but I do not see my refund, why is that?	Refund_not_showing_up
+How do I make my PIN work again?	pin_blocked
+I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.	pin_blocked
+Why is my card not working?	card_not_working
+Should I expect to be charged for topping up by transfer?	top_up_by_bank_transfer_charge
+What is the estimated time on an urgent transfer from China?	transfer_timing
+My cash withdrawal was partly declined	wrong_amount_of_cash_received
+Are you going to charge me to collect the money?	top_up_by_bank_transfer_charge
+Is there a reason that my transfer failed?	failed_transfer
+Why is it important to verify my identity?	why_verify_identity
+Why didn't my balance change after I transferred some money?	balance_not_updated_after_bank_transfer
+My account balance has not updated to reflect my recent transfer.	balance_not_updated_after_bank_transfer
+Can you tell me the cost of a transfer?	top_up_by_bank_transfer_charge
+Why did I get less money than I asked for?	wrong_amount_of_cash_received
+Where can I order a virtual card?	getting_virtual_card
+Do you accept SWIFT transfers?	top_up_by_bank_transfer_charge
+I would like to know what your exchange rates are.	exchange_rate
+Can I change my PIN at my local bank?	change_pin
+Is there a charge for transfers?	top_up_by_bank_transfer_charge
+Why hasn't the transfer shown up in my account yet?	transfer_timing
+It is common for an international transfer to take 2 days or longer? I made a transfer from France 2 days ago and I have not seen it yet.	balance_not_updated_after_bank_transfer
+I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.	reverted_card_payment?
+I was wondering about transferring money into my account and how it works.  Can you tell me about that?	transfer_into_account
+I enetered the wrong information, I need my account unblocked How do I do that?	pin_blocked
+What currencies can I use to top up my account?	transfer_into_account
+How long do transfers need to come through? I sent some money to a friend, she needs it urgently, but seems it's still not there yet after a couple hours.	transfer_not_received_by_recipient
+I want to transfer some money from my other bank account into this one.	transfer_into_account
+Why do you keep declining my payment? I tried several times already with this card and it's just not working	declined_card_payment
+Why hasn't my transfer been made?	failed_transfer
+Do the disposable cards have restrictions?	disposable_card_limits
+How did the extra charge on my card come in effect?	card_payment_fee_charged
+Why did I not get all the cash I asked for?	wrong_amount_of_cash_received
+I got less money than I asked for.	wrong_amount_of_cash_received
+I do not wish to verify my identity.	why_verify_identity
+When can I expect the transfer to arrive in my account?	transfer_timing
+Why did my payment not go through why did it cancel?	reverted_card_payment?
+Can I reset my PIN?	change_pin
+How come the ATM gave me less cash than what I asked for?	wrong_amount_of_cash_received
+They declined my card payment.	declined_card_payment
+My disposable virtual card will not work	virtual_card_not_working
+i have used my card online before and wasn't charged, why am i charged now	card_payment_fee_charged
+How long do transfers take to go though	balance_not_updated_after_bank_transfer
+Why was my card payment reverted?	reverted_card_payment?
+I used my card and there was a fee	card_payment_fee_charged
+What is the cost of a transfer?	top_up_by_bank_transfer_charge
+A refund is taking too long.	Refund_not_showing_up
+I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?	reverted_card_payment?
+Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!	card_payment_fee_charged
+My card didn't go through.  It doesn't make sense.  You told me that everything was ok.	declined_card_payment
+Can you help me with my card, I think it's broke.	card_not_working
+I forgot my PIN and now it is blocked.	pin_blocked
+What are the steps to change my PIN to something else?	change_pin
+Please tell me why I was charged additionally when I used the card.	card_payment_fee_charged
+How do you get a virtual card?	getting_virtual_card
+Is there a number to call to get my pin unblocked?	pin_blocked
+i accidentally entered in my retailers information, what should i do next	transfer_not_received_by_recipient
+I want to use my account before identity verification	why_verify_identity
+I know I have enough funds in my account but my card payment hasn't worked for some reason. What do I do?	declined_card_payment
+When topping up by transfer, will I be charged?	top_up_by_bank_transfer_charge
+I need to transfer something from China, How long will it take?	transfer_timing
+Why does it say my transfer failed?	failed_transfer
+I got less cash than the one I specified in the ATM	wrong_amount_of_cash_received
+Where are the virtual cards located?	getting_virtual_card
+Why won't my transfer go through?	failed_transfer
+Why, when paying with the card, was I charged an extra fee?	card_payment_fee_charged
+I accidentally put in the wrong pin too many times and now I need to unblock it. Can you assist with this?	pin_blocked
+I entered my pin wrong  too many times.	pin_blocked
+What is the identity check for?	why_verify_identity
+How can I request cash back? The ATM just gave me the wrong amount, the app shows the amount that I've been actually charged though...	wrong_amount_of_cash_received
+How do I change my PIN?	change_pin
+Why is my withdrawal wrong? I took out $100 but only received $20.	wrong_amount_of_cash_received
+May I use my account now, even though the identity verification has not gone through yet?	why_verify_identity
+How fast can I transfer something from China?	transfer_timing
+So what items  actually come  with  extra  fees	card_payment_fee_charged
+When I attempted to make a transfer, it failed.	failed_transfer
+Why is my refund not showing up on the statement?	Refund_not_showing_up
+the money i transferred didnt arrive	transfer_not_received_by_recipient
+How long do I have to wait for a transfer from the US?	transfer_timing
+When will I receive a transfer from europe?	transfer_timing
+I contacted the seller for a direct refund last week but he still hasn't give me my money. What should I do?	Refund_not_showing_up
+How long does it typically take to make a transfer from a UK bank? I just made one and it hasn't shown up in my account yet.	balance_not_updated_after_bank_transfer
+My disposable virtual card has been rejected by the merchant earlier today. What should I do?	virtual_card_not_working
+Where do I go to change my PIN?	change_pin
+Why isn't my payment showing?	reverted_card_payment?
+I tried pulling out money at the ATM and it gave me an incorrect amount back.	wrong_amount_of_cash_received
+My transfer didn't work	failed_transfer
+My card is broken	card_not_working
+Am I getting charged for making a payment?	card_payment_fee_charged
+Tell me why my card payment was declined.	declined_card_payment
+where do you find your exchange rates?	exchange_rate
+How can I transfer money to this account from another bank?	transfer_into_account
+I made a transfer the day before yesterday within this country. It is still not showing up at all. I have double-checked and the account number is certainly right. I've actually type this multiple times. can you look into what is going on here?	transfer_not_received_by_recipient
+How many transactions can I make on my disposable card?	disposable_card_limits
+I sent some money to somebody a couple of hours ago, and they still have yet to receive it.  They really need the money, how much longer are they going to have to wait?	transfer_not_received_by_recipient
+There must be an issue, why has my card been cancelled?	reverted_card_payment?
+How do I get unblocked?	pin_blocked
+Are there virtual cards	getting_virtual_card
+When I want to transfer money to my account, how can I do that?	transfer_into_account
+My card stopped working	card_not_working
+Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.	reverted_card_payment?
+I tried using my card today and it's not working, can you help me?	card_not_working
+Why did the transfer fail when I attempted to do it earlier?	failed_transfer
+Since my id hasn't been verified, when can I use my account?	why_verify_identity
+Will I be charged if someone needs to send me money?	top_up_by_bank_transfer_charge
+What can I expect if I use bank transfer to top up my account?	transfer_into_account
+I've been waiting since Friday, where is my money?	transfer_not_received_by_recipient
+Hello, what is a virtual card and how do I get one?	getting_virtual_card
+dont understand why transfer failed	failed_transfer
+My disposable virtual card won't work.	virtual_card_not_working
+How do I re-order a damaged card?	card_not_working
+I transferred some money and it didint arrive	transfer_not_received_by_recipient
+Is there a charge for SEPA transfers?	top_up_by_bank_transfer_charge
+I'm trying to transfer money into my account.	transfer_into_account
+I can't get my virtual card to work at all	virtual_card_not_working
+Explain why my card payment wouldn't go through.	declined_card_payment
+I needed $100 but all it gave me was $20.	wrong_amount_of_cash_received
+I requested a refund for a large order the other day and don't think I received the funds. Can you tell me if you see them or not?	Refund_not_showing_up
+MY transfer has still not appeared.	balance_not_updated_after_bank_transfer
+How long do I have  to wait for my transaction to be completed?	transfer_not_received_by_recipient
+my card was refused, why?	declined_card_payment
+What is going on with it saying my card payment was declined?	declined_card_payment
+Would I be able to use SWIFT transfers?	top_up_by_bank_transfer_charge
+The transger I tried to make failed.	failed_transfer
+The refund doesn't show in my account	Refund_not_showing_up
+When will my money be in my account?	transfer_timing
+I mistook my pin and now I am locked.  Can you unlock me?	pin_blocked
+Why are there fees for card usage?	card_payment_fee_charged
+In what ATM can I change my pin?	change_pin
+Can I do a SWIFT transfer?	top_up_by_bank_transfer_charge
+My card hasn't been working when I try to use it.	card_not_working
+Do you charge for transfers?	top_up_by_bank_transfer_charge
+Whats the maximum number of disposable cards that I can get?	disposable_card_limits
+Why was I charged an additional fee when paying with card?	card_payment_fee_charged
+I paid with my card and I was charged a fee	card_payment_fee_charged
+How do I transfer money between two of my accounts?	transfer_into_account
+What are the steps for  making a transfer for topping up?	transfer_into_account
+Why has my money been returned back to my card.	reverted_card_payment?
+For you, how long do transfers normally take from a UK account? I completed one just now but nothing appears. I just need to be sure everything is okay.	balance_not_updated_after_bank_transfer
+How many disposable virtual cards can you have?	disposable_card_limits
+Do I need to go to an office to change my pin?	change_pin
+I want to choose a new PIN.	change_pin
+Why haven't I gotten a virtual card yet?	getting_virtual_card
+I tried to send someone money but they haven't received it.	transfer_not_received_by_recipient
+I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did.  Help!	wrong_amount_of_cash_received
+I tried to make a transfer like five different times. Why won't your system let me? Is it broke?	failed_transfer
+I need to transfer money into my account, HOW?	transfer_into_account
+I got less than what i asked for in the ATM, why?	wrong_amount_of_cash_received
+what is the exchange rate?	exchange_rate
+I did a transfer to my account but it doesn't show up	balance_not_updated_after_bank_transfer
+My card did not go through in a shop	declined_card_payment
+I sent money.  They haven't received it.	transfer_not_received_by_recipient
+My card payment was cancelled it seems.	reverted_card_payment?
+I would like to change the the PIN on my card.	change_pin
+What's the process for exchanges?	exchange_rate
+When I went to withdraw cash today the ATM gave me the wrong amount of cash. The app is showing a larger amount.	wrong_amount_of_cash_received
+I'm travelling abroad but I've run into a situation where I need to change my PIN immediately. Can I do this from here?	change_pin
+Where can I find a list of descriptions the disposable cards have?	disposable_card_limits
+How long does it take for a transfer to be in my account?	transfer_timing
+Card payment declined?	declined_card_payment
+I'm having money transferred from Europe, how long will this take?	transfer_timing
+It's been a couple days how much longer do I have to wait for my transfer?	transfer_timing
+I'm waiting for the ID verification to go through still, so is it too soon to use my account?	why_verify_identity
+My PIN was entered wrong and now I am blocked.  Please unblock.	pin_blocked
+Is verifying my identify important?	why_verify_identity
+I made a transfer from France two days ago now but there hasn't made it there yet. Do international transfers take longer?	balance_not_updated_after_bank_transfer
+can I use my card before identity verification?	why_verify_identity
+Can you tell me why a refund I'm owed is not showing on my statement?	Refund_not_showing_up
+What do I need to do to get cash back? The ATM gave me the wrong amount that I requested but the app is showing the amount to be correct.	wrong_amount_of_cash_received
+My statement has not shown my refund.	Refund_not_showing_up
+I need assistance with transferring funds to another account.	transfer_into_account
+I asked for 100 but only got 20.	wrong_amount_of_cash_received
+When will the money from my bank transfer be available?	balance_not_updated_after_bank_transfer
+I need more than one disposable card	disposable_card_limits
+Transaction refund missing from my statement.	Refund_not_showing_up
+I transferred money and it hasn't come yet	transfer_not_received_by_recipient
+What is the time frame that it usually takes for a transfer to come through? I have a friend needing it immediately but it has yet to come through.	transfer_not_received_by_recipient
+Why did my transfer not work?	failed_transfer
+Under what condition will my payment revert?	reverted_card_payment?
+Are you able to explain the restrictions of the disposable cards?	disposable_card_limits
+Do I have to pay any fees in order to receive money?	top_up_by_bank_transfer_charge
+Hi, I draw out some money from the ATM today. The ATM has given me wrong amount and the application is displaying more amount than i withdraw.	wrong_amount_of_cash_received
+Do the disposable cards have any restrictions?	disposable_card_limits
+My card is not working.	card_not_working
+How do I fix a payment that was reverted	reverted_card_payment?
+My card isn't working at all, I need assistance. It's really frustrating.	card_not_working
+I've been waiting for a refund where is it?	Refund_not_showing_up
+I made a card payment but it didn't work. Why not?	declined_card_payment
+How come my card doesn't work anymore?	card_not_working
+I sent a payment but it isn't showing up in the app	transfer_not_received_by_recipient
+I believe my card payment has reverted	reverted_card_payment?
+How long does it take for the money to show up in my account?	transfer_timing
+Why would my payment have been returned to my account?	reverted_card_payment?
+Why was my payment cancelled?	reverted_card_payment?
+Please tell me which cash machines will allow me to change my pin.	change_pin
+Can I order a virtual card?	getting_virtual_card
+I bought something and returned it and the money from the return isn't in my account.	Refund_not_showing_up
+I'd like to know how transferring my money into my account works.	transfer_into_account
+What do I do if I have exceeded all my PIN tries?	pin_blocked
+I'm having a problem with a money transfer.  I sent some money to a friend a couple of hours ago, and they haven't received it yet.  Why hasn't it gotten to them? How long do transfers need to go through?	transfer_not_received_by_recipient
+Is my account accessible even though my verification of my identity has not passed yet?	why_verify_identity
+Why is my virtual card is being declined?	virtual_card_not_working
+How can I request cash back? The ATM just gave me the wrong amount that I've been charged though...	wrong_amount_of_cash_received
+Are there any restrictions for the disposable cards?	disposable_card_limits
+How can it be that my Card is not functioning anymore?	card_not_working
+is there a reason that my payment didnt go through	declined_card_payment
+After transfering some money my balance hasn't changed.	balance_not_updated_after_bank_transfer
+How do you determine the exchange rate?	exchange_rate
+I heard you have virtual cards. How do I get one?	getting_virtual_card
+How can I change my PIN?  Help.	change_pin
+When will money be available in my account?	transfer_timing
+The recipient doesn't see the money transaction I made	transfer_not_received_by_recipient
+My transfer didn't go through.	failed_transfer
+i need to proof my identity to you why and how?	why_verify_identity
+Hi, I sent my landlord my rent money a few days ago and while everything seems good on my end he says that he never got the money. I double checked the account number and it's correct. Can you help me figure this out?	transfer_not_received_by_recipient
+Tell me why my card payment would be reverted.	reverted_card_payment?
+I have questions about how to transfer money to my account.	transfer_into_account
+How can I find out why my transfer didn't go through?	failed_transfer
+I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?	declined_card_payment
+I'm still expecting the transaction to be finished	transfer_not_received_by_recipient
+I have exceeded the number of PIN attempts	pin_blocked
+I think my transfer failed. What do I do now?	failed_transfer
+I used my pin too many times.	pin_blocked
+Can I do more than 10 transactions with a disposable card?	disposable_card_limits
+Do you have a list of exchange rates?	exchange_rate
+Why was I charged a fee when I paid with card?	card_payment_fee_charged
+I ordered a virtual card but it hasn't come through yet	getting_virtual_card
+Why is my balance the same?  I processed a transfer.	balance_not_updated_after_bank_transfer
+Why won't the machine accept my card anymore?	card_not_working
+My payment was cancelled	reverted_card_payment?
+What exchange rates do you use?	exchange_rate
+Can you tell my why my funds transfer did not work properly?	failed_transfer
+What happened to the transfer I did?	balance_not_updated_after_bank_transfer
+My transfer failed to process correctly. Is there a reason this would happen?	failed_transfer
+Why is my identification required?	why_verify_identity
+Why doesn't a return show up im my account from a purchase I made?	Refund_not_showing_up
+Need help to get my card to work.	card_not_working
+Why was there an extra charge because I used my card to pay?	card_payment_fee_charged
+I cannot get my virtual card to function.	virtual_card_not_working
+I can not find my refund.	Refund_not_showing_up
+There is an important thing from China that I need to transfer. Approximately how long will this take?	transfer_timing
+Can you tell me why my card is not working? I keep trying to use it but it keeps rejecting my payment. I am being careful and entering the info correctly but it still happens.	declined_card_payment
+Help me with a PIN change.	change_pin
+Why do I get charged additional fees on some payments, but not others?	card_payment_fee_charged
+Can I do a bank transfer to put additional money in my account because I am out of money?	transfer_into_account
+I sent some money but the intended recipient says it hasn't arrived	transfer_not_received_by_recipient
+My card payment won't work.	declined_card_payment
+How long does it take for a refund to appear?	Refund_not_showing_up
+Why is identity verification required?	why_verify_identity
+"Hi, is everything in good standing with my card? I am receiving multiple ""decline"" messages."	declined_card_payment
+I would like to refill my account using SWIFT.	top_up_by_bank_transfer_charge
+Is there a fee to make a transfer?	top_up_by_bank_transfer_charge
+The ATM didn't give me enough money! I asked for more than it gave. What do I do?	wrong_amount_of_cash_received
+What factors determine your exchange rate?	exchange_rate
+I can't see a transfer to my account I made.	balance_not_updated_after_bank_transfer
+Can you help me sign up for a virtual card?	getting_virtual_card
+If I started the Bank transfer from Europe, how long will the process take to complete?	transfer_timing
+When will a refund post to my account?	Refund_not_showing_up
+I already got my item but just got my money back	reverted_card_payment?
+I need a quick transfer from China.  How long would that take?	transfer_timing
+Hi I'm waiting for a refund for an item I bought. I have contacted the merchant directly but had nothing back. Can you tell me whether or not you are able to refund me for the item?	Refund_not_showing_up
+What is the amount of disposable cards I can have each day?	disposable_card_limits
+I wanted $100 but only got $20	wrong_amount_of_cash_received
+What could possibly be the cause of my failed transfer?	failed_transfer
+I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that several times already.	transfer_not_received_by_recipient
+I have to make more then a few disposable cards per day.	disposable_card_limits
+How much am I charged for a SEPA transfer?	top_up_by_bank_transfer_charge
+How long do I have to wait until the transferred money shows up?	balance_not_updated_after_bank_transfer
+i need to know about exchange rates	exchange_rate
+i am not a premium customer but i want a virtual card, how do i get it	disposable_card_limits
+My transfer into my account isn't showing up.	balance_not_updated_after_bank_transfer
+The seller just told me he didn't get paid. After reviewing my account it did subtract the balance but now it has added it back to my account. I need you to please take care of this promptly.	reverted_card_payment?
+I would like to make a purchase, however my card has been declined. I would like to ask the reason for this. The past two weeks, the card has been working fine.	reverted_card_payment?
+How can my account have money transferred into it?	transfer_into_account
+Why can't I complete my transfer?	failed_transfer
+Will it take more than 3 days for my transfer to reach my account?	transfer_timing
+What is the exchange rate for EUR?	exchange_rate
+How can many disposable cards can I have per day?	disposable_card_limits
+Why do you need verification for my identity?	why_verify_identity
+If I don't want a physical card can i get a virtual version?	getting_virtual_card
+I can still see money in my account after making a payment	balance_not_updated_after_bank_transfer
+I transferred money but the balance hasn't changed.	balance_not_updated_after_bank_transfer
+I transferred money but the recipient says it has not arrived. Why would this be?	transfer_not_received_by_recipient
+How can I get my card to work?	card_not_working
+What is the max amount of disposable cards I'm allowed.	disposable_card_limits
+What if I type in the wrong PIN too many times?	pin_blocked
+I have checked my statements multiple times, but my refund that I requested a while back is not showing on my account. Is there a reason for this? Can I get some help getting my money back from this transaction?	Refund_not_showing_up
+How much will I get with the exchange rate?	exchange_rate
+Tell me why my card payment has been declined.	declined_card_payment
+What stipulations do disposable cards entail?	disposable_card_limits
+If my transfer is from Europe how long will it take?	transfer_timing
+Do you know the rate of exchange?	exchange_rate
+Why am I being asked to verify my identity?	why_verify_identity
+Can a card stop working?	card_not_working
+What are the current exchange rates?	exchange_rate
+How much would it cost me if I transfer?	top_up_by_bank_transfer_charge
+How long until my transfer goes through?	transfer_timing
+I am still waiting for a refund	Refund_not_showing_up
+My money is back in my account after a seller contacted me stating they never received payment. I am positive it was deducted out of my account. Please get this sorted out right away.	reverted_card_payment?
+What is the fee charged with this card payment?	card_payment_fee_charged
+I need to transfer something to China. It is urgent. How many days will it take to get there?	transfer_timing
+The balance does not appear to have updated.	balance_not_updated_after_bank_transfer
+My payment has been declined!! What's going on, I thought everything was alright and working well?	declined_card_payment
+My PIN seems to be blocked, help me access it?	pin_blocked
+I can't figure out how to transfer money into my account.	transfer_into_account
+How much does it cost to make transfers?	top_up_by_bank_transfer_charge
+I only received $20, but I requested $100.	wrong_amount_of_cash_received
+Will I be charged for adding money by transfer?	top_up_by_bank_transfer_charge
+Why has payment been returned?	reverted_card_payment?
+I forgot my pin and am blocked now. Can I reset it somewhere?	pin_blocked
+I tried and tried, but I could not complete my transfer. Tell me what is wrong.	failed_transfer
+Why can't I see my refund in my statement?	Refund_not_showing_up
+i did not get any money but still was charged	wrong_amount_of_cash_received
+what amount of time does it take for a transfer to reflect and be available	balance_not_updated_after_bank_transfer
+The app reverted the payment I made.	reverted_card_payment?
+The app isn't showing my transactions	transfer_not_received_by_recipient
+I've made a transfer, how long until the money reaches my account?	transfer_timing
+I attempted to withdraw some money from an ATM this morning and received the wrong amount. Your app says I have enough money available in the account. Can someone tell me what's wrong?	wrong_amount_of_cash_received
+When I use my card, it says decline?	declined_card_payment
+WHAT IS THE REASON FOR THAT	card_not_working
+I desperately need to change my PIN, but I'm overseas on vacation right now. How can I do this?	change_pin
+Can I use app to reset PIN attempts?	card_not_working
+I paid with my card and was charged extra	card_payment_fee_charged
+What do I have to do to get my virtual card?	getting_virtual_card
+Is it a good time to exchange?	exchange_rate
+Will I see the transfer in my account within the week?	transfer_timing
+i need a refund right away but the funds aren't available in my account	Refund_not_showing_up
+I want to transfer money into my account	transfer_into_account
+How come you need to know my identity?	why_verify_identity
+Why am I charged a fee when using my debit or credit card?	card_payment_fee_charged
+I am worried that too much time has gone by for a transfer to be completed.	transfer_not_received_by_recipient
+A fee came along with me paying with card	card_payment_fee_charged
+Please, I need your help as to whether or not you have money for a large refunded purchase I made. I requested it some time ago from the seller, but nothing is showing up.	Refund_not_showing_up
+I need to change my card PIN.	change_pin
+No refund showing in my statement.	Refund_not_showing_up
+My transfer is pending.	balance_not_updated_after_bank_transfer
+Why isn't my refund showing up?	Refund_not_showing_up
+Why did the ATM give me less money than what I requested?	wrong_amount_of_cash_received
+I don't think my transfer wen through. Why?	failed_transfer
+Where did the money transfer go?	transfer_not_received_by_recipient
+I have never been charged a card payment fee before. Why did this change?	card_payment_fee_charged
+What does it mean if it says my card payment has been cancelled?	reverted_card_payment?
+Why is verification for my identity needed?	why_verify_identity
+What are the exchange rates?	exchange_rate
+Why would my card payment be reverted?	reverted_card_payment?
+Where is the transfer I started?	transfer_not_received_by_recipient
+Why did I not get the amount of money I requested?	wrong_amount_of_cash_received
+Is there a limit on disposable cards?	disposable_card_limits
+HELP! I tried to get cash and it gave me some, but not the right amount!	wrong_amount_of_cash_received
+My disposable virtual card is not working when I try to use it at a point of sale transaction. What do I do now?	virtual_card_not_working
+I sent a payment, but the person I sent it to says they don't have it	transfer_not_received_by_recipient
+I requested a virtual card but it is not showing up. Why?	getting_virtual_card
+My payment has been declined, I thought this issue was fixed!	declined_card_payment
+While on vacation in Spain I think someone saw my PIN and I now need to change it, can I do this at an ATM in Spain?	change_pin
+Why did I have to pay an additional amount when using my card to pay?	card_payment_fee_charged
+My PIN is locked, how do I unlock it?	pin_blocked
+After I transferred money the balance remained the same.	balance_not_updated_after_bank_transfer
+My ID verification hasn't gone through yet, but can I use my account anyway?	why_verify_identity
+Is there a way to get a virtual card?	getting_virtual_card
+Why was I charged for card payment?	card_payment_fee_charged
+Is there a location near me that i can change my PIN?	change_pin
+When will I get my money? It's been too long.	transfer_not_received_by_recipient
+What is the fee to top-up my account	top_up_by_bank_transfer_charge
+Can I make transfers before my identity verification?	why_verify_identity
+My card payment did not complete.	declined_card_payment
+HOW LONG THE CARD VALIDITY	card_not_working
+How long do transfers take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.	transfer_not_received_by_recipient
+What is the limit to number of transactions I can do with a disposable card?	disposable_card_limits
+I did what you told me earlier and contacted the seller for a refund directly, but nothing is happening! It's been a week and I still haven't got anything. Please just give me back my money	Refund_not_showing_up
+How long to I have to wait for a transfer to reach my account?	transfer_timing
+I need to bank account transfer from another account into this one, what is the easiest way that can be done, and what information do i need?	transfer_into_account
+I am noticing that a refund of a large purchase still has not been credited to my account. I contacted the merchant a few days ago and he assured me that he would submit it right away. Is there a status update?	Refund_not_showing_up
+Do I have to pay for topping up by transfer?	top_up_by_bank_transfer_charge
+I needed to send my friends some money urgently.  I tried multiple times to transfer the money this morning, but the transfer keeps failing.  Can you tell me why the transfer is getting rejected?	failed_transfer
+What is the number of transactions for one disposable card?	disposable_card_limits
+I can't get my virtual card to work.	virtual_card_not_working
+Why did I only get $20 when I asked for $100?	wrong_amount_of_cash_received
+Is there a limit to how many transactions I can make on one disposable card?	disposable_card_limits
+The person I sent money to hasn't gotten it yet!	transfer_not_received_by_recipient
+I completed a money transaction but the recipient hasn't received it	transfer_not_received_by_recipient
+What may be the reason that my transfer did not go through?	failed_transfer
+What is the timeframe for a transfer in Europe?	transfer_timing
+Why hasn't my money transfer shown up yet?	balance_not_updated_after_bank_transfer
+What are my limits on disposable cards?	disposable_card_limits
+A while ago i requested a refund from a seller. I keep checking my statement but I have not been refunded yet. I'm confused why i haven't gotten my money back yet but I need your help getting it please.	Refund_not_showing_up
+Can you tell me how to change my PIN?	change_pin
+I transferred some money a couple days ago but haven't received it yet. How long should I expect to wait?	balance_not_updated_after_bank_transfer
+I received the wrong amount of cash back	wrong_amount_of_cash_received
+Today I used my card at a restaurant and it was declined. Why?	card_not_working
+What do I need to do to request cash back? The ATM actually just gave me the wrong amount. The app I actually chose the right amount.	wrong_amount_of_cash_received
+Your exchange rates come from where?	exchange_rate
+What is the process for transferring money into my account?	transfer_into_account
+how long does it take to transfer money, my retailer is waiting	transfer_not_received_by_recipient
+I must quickly transfer something from China, and I need to know how long it will take.	transfer_timing
+Why is  my balance not updated?	balance_not_updated_after_bank_transfer
+How can I investigate a missing refund?	Refund_not_showing_up
+I can't find my refund. Please help.	Refund_not_showing_up
+I need to change my pin but I am on the road.	change_pin
+I am travelling and I was wondering what your exchange rates are	exchange_rate
+When will my transfer from the US get here?	transfer_timing
+If I top-up by using a trasfer are there charges that applied?	top_up_by_bank_transfer_charge
+Why do you need to perform identity verification?	why_verify_identity
+How to I transfer my funds into my account?	transfer_into_account
+I look but I see no virtual card. Why is that?	getting_virtual_card
+What do I do if my PIN was blocked?	pin_blocked
+I did all that was asked of me and I am rather frustrated. I don't understand why you just won't credit me my money back. I have contacted the seller and nothing has been done. It's been a week!	Refund_not_showing_up
+I got less cash at the ATM than I asked for. Why?	wrong_amount_of_cash_received
+Can you assist me with unblocking my PIN? I put it in wrong too many times.	pin_blocked
+my atm transaction was wrong	wrong_amount_of_cash_received
+Can you please assist me in completing a transfer? I'm trying and I keep getting an error. I'm trying to purchase a flat and pay the initial mortgage payment. All I keep getting is an error. Can you find out what's happening here?	failed_transfer
+I have been travelling overseas and I need to change my PIN. Can you tell me how this is done?	change_pin
+I asked for more cash than what was received	wrong_amount_of_cash_received
+What do you think of the exchange rate?	exchange_rate
+Why is checking my identity important?	why_verify_identity
+Why didn't the ATM give me all my money	wrong_amount_of_cash_received
+do I need to verify my identity every time I log into my account?	why_verify_identity
+You shorted me money when I tried to make a withdrawal.	wrong_amount_of_cash_received
+how long do money transfers take?	transfer_not_received_by_recipient
+Do you think you're asking for too much information about me?	why_verify_identity
+I paid with my card and got charged an extra fee, what's up with that?	card_payment_fee_charged
+Too many times I entered the incorrect PIN.  How can I get my account unblocked?	pin_blocked
+How do i transfer something faster than normal?	transfer_timing
+I had transferred some money but the balance hasn't changed.	balance_not_updated_after_bank_transfer
+Where do you guys acquire your exchange rate?	exchange_rate
+How many disposable virtual cards can I have?	disposable_card_limits
+Is a SWIFT transfer acceptable?	top_up_by_bank_transfer_charge
+I was so embarrassed. Why didn't my payment clear?	declined_card_payment
+The money has not yet been placed in recipients account.	transfer_not_received_by_recipient
+I used my card for a purchase and was charged a fee	card_payment_fee_charged
+How do you come up with your exchange rate	exchange_rate
+How many times can I use my disposable card?	disposable_card_limits
+If I top up by transfer, am I going to be charged?	top_up_by_bank_transfer_charge
+I think a payment I made with a card was cancelled.	reverted_card_payment?
+The amount of cash I received was different than what I requested.	wrong_amount_of_cash_received
+Hi - I have made a transaction to my new landlord but unfortunately it shows on my end but not on the landlord's end. The numbers are correct. Can you confirm when that will go through?	transfer_not_received_by_recipient
+What is the exchange rate like?	exchange_rate
+I am in desperate need to transfer funds from another account that i have into this one, how do i do that?	transfer_into_account
+This fee shouldn't be there after I paid with a card.	card_payment_fee_charged
+Still waiting for transfer to be completed.	transfer_not_received_by_recipient
+I have a card payment that was declined, but why?	declined_card_payment
+I think my card payment has been refunded	reverted_card_payment?
+Why was the payment on my card declined?	declined_card_payment
+Fix your system. I can't make transfers, I've tried like 5 times already.	failed_transfer
+My statement doesn't show that a refund has processed	Refund_not_showing_up
+Why have I not yet received my virtual card?	getting_virtual_card
+My card payments have stopped.	reverted_card_payment?
+I bought something and received it, but the payment went back to my account. Is the seller okay?	reverted_card_payment?
+My card payment's cancelled	reverted_card_payment?
+Why was I charged extra when paying with card?	card_payment_fee_charged
+Where is the money I pushed it's on my mobile app as being withdrawn.	wrong_amount_of_cash_received
+For topping-up is there a charge?	top_up_by_bank_transfer_charge
+When will my account receive the money?	transfer_timing
+My card was declined	declined_card_payment
+After making a transfer from a UK account it's not showing up. How long do these transfers normally take for you? I want to be certain everything is all right.	balance_not_updated_after_bank_transfer
+What do I do if my payment was reverted?	reverted_card_payment?
+I asked for a certain amount of money from the ATM, but it gave me a different amount. Less than what I asked for.	wrong_amount_of_cash_received
+Is there a limit to using a disposable virtual card?	disposable_card_limits
+Did my refund go through? It's not on my statement.	Refund_not_showing_up
+My virtual card won't work.	virtual_card_not_working
+"
+Which cash machines will allow me to change my PIN?"	change_pin
+I made an out of country transfer and it hasn't went through yet.	balance_not_updated_after_bank_transfer
+Hello I have a UK account.  Can you please check if everything is alright with it?  I made a transfer a couple hours ago but it doesn't show up yet.	balance_not_updated_after_bank_transfer
+Please let me know how to change my PIN?	change_pin
+Can I use my account before my Identity verification has passed?	why_verify_identity
+My card doesn't work.	card_not_working
+My transfer is pending too long.	balance_not_updated_after_bank_transfer
+Where can I order my virtual card?	getting_virtual_card
+I tried to use my debit card, but the payment did not work.	reverted_card_payment?
+Seems like my card payment has been cancelled	reverted_card_payment?
+I know there's money in my account, why did my account decline me?	declined_card_payment
+When does my transfer from the US arrive in my account?	transfer_timing
+how long does it take for a transfer to arrive	transfer_not_received_by_recipient
+My card payment didn't work	declined_card_payment
+How can I unblock my PIN?	pin_blocked
+I am still waiting to find out the status of my refund. I have made previous attempts to find out what the status is to no avail. Will you please look into this for me?	Refund_not_showing_up
+My refund has not shown up on my statement.	Refund_not_showing_up
+How can I sign up for a virtual card?	getting_virtual_card
+Please explain why my payment was declined? I thought everything was good.	declined_card_payment
+I was charged a fee after using my card and I shouldn't have been.	card_payment_fee_charged
+I did not receive the right amount of cash.	wrong_amount_of_cash_received
+I've been trying to make a transfer and it doesn't seem to be working. (5 times) What is wrong with your system?	failed_transfer
+Can I check somewhere if there will be a fee on my payment or not? Seems you are charging in some cases, what's the pattern there?	card_payment_fee_charged
+I have to transfer something to China as fast as I can. How long will it take to arrive in China?	transfer_timing
+My card payment was reverted	reverted_card_payment?
+Help! I keep checking my account, but my refund is not showing. I requested that a seller refund my money a while back, but there is no money showing in my account. What can you do for me?	Refund_not_showing_up
+If someone sends me money, will I be charged?	top_up_by_bank_transfer_charge
+I am still waiting for verification.  Can I use my account before I am verified?	why_verify_identity
+I withdrew money but the full amount wasn't dispensed.	wrong_amount_of_cash_received
+I paid with my card so so why was I charged a transaction fee?	card_payment_fee_charged
+I've tried several times to make a payment and every time my card is declined? Could my card be locked? I don't know what to do.	declined_card_payment
+Why hasn't arrived yet a transaction I did to my friend?	transfer_not_received_by_recipient
+Your system is broken. My transfers keep failing, 5 times now.	failed_transfer
+Where do I order a virtual card?	getting_virtual_card
+I was just shopping and my payment was declined in a store!  It was very embarrassing, what is going on and when will it be fixed?	declined_card_payment
+I attempted a transfer, but it failed.	failed_transfer
+I've made a transfer from France two days ago but I was wondering if international transfers take longer to arrive because it hasn't made it yet.	balance_not_updated_after_bank_transfer
+Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.	reverted_card_payment?
+Why am I required to do an identity check?	why_verify_identity
+How long will my transaction take?	transfer_not_received_by_recipient
+How do I unblock my PIN?	pin_blocked
+Why is my refund not visible on my statement?	Refund_not_showing_up
+How can I move money from my account at a different bank to the account I have at this bank.	transfer_into_account
+i've waited 2 days for a transfer to reach a retailers account, am i going to have to wait longer.	transfer_not_received_by_recipient
+I really need to know how to change my pin.	change_pin
+You advertise no fee when paying with a card then my statement shows a fee.	card_payment_fee_charged
+Where am I able to get my PIN unblocked?	pin_blocked
+What is the number of transactions I get with a disposable card?	disposable_card_limits
+Is there a way to reset my PIN?	pin_blocked
+HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?	reverted_card_payment?
+Tell me your opinion on the exchange rate.	exchange_rate
+If I need to cash foreign transfers, how does that work?	exchange_rate
+my virtual card has not came yet!	getting_virtual_card
+What is taking so long on my transfer from the US?	transfer_timing
+My PIN has been blocked, what should I do?	pin_blocked
+What's the normal time frame for a transfer from a UK account? After just making a transfer it doesn't appear at all. I need to know if things went okay.	balance_not_updated_after_bank_transfer
+I tried to make a purchase in the store but my card was declined.	declined_card_payment
+Nothing goes through on my card.	card_not_working
+The card I have doesn't work.	card_not_working
+How long do you have to wait to see your virtual card your ordered?	getting_virtual_card
+My attempted transfer failed.	failed_transfer
+Why was my transaction not approved?	failed_transfer
+There was a charge applied when I used my card.	card_payment_fee_charged
+How many disposable cards can I have at one time?	disposable_card_limits
+I performed a transfer within the country the day before yesterday, but it has not gone through? Can you check on that? The account number is definitely correct, as I've checked.	transfer_not_received_by_recipient
+Why did I get less cash than what I asked in the ATM?	wrong_amount_of_cash_received
+My card payment has been declined	declined_card_payment
+Why has my transfer failed?	failed_transfer
+Do I have to do an identity check?	why_verify_identity
+When should I receive my virtual card?	getting_virtual_card
+I do not see the money I transferred into this account	balance_not_updated_after_bank_transfer
+Can I have more disposable cards?	disposable_card_limits
+I was unaware of the additional charge that was added onto my previous payment. A notification of extra charges would be appreciated in the future.	card_payment_fee_charged
+Are there topping up fees if I have to transfer?	top_up_by_bank_transfer_charge
+Can I add funds to the card directly from my bank account?	transfer_into_account
+Can I use a bank transfer to refill my account?	transfer_into_account
+When will my virtual card arrive?	getting_virtual_card
+Why hasn't my friend's transaction arrive yet?	transfer_not_received_by_recipient
+Is there a top up fee?	top_up_by_bank_transfer_charge
+How come my refund hasn't appeared on my statement?	Refund_not_showing_up
+Do I get charged if i am getting money?	top_up_by_bank_transfer_charge
+How much time do transfers typically take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.	transfer_not_received_by_recipient
+How long do bank transfers usually take?	balance_not_updated_after_bank_transfer
+Can you please inform me of the restrictions for the disposable cards.	disposable_card_limits
+I have tried sending a standard transfer five times and it hasn't gone through. What is the problem?	failed_transfer
+Please explain the extra fee when I paid with the card.	card_payment_fee_charged
+Why was I charged an extra fee when paying with my card?	card_payment_fee_charged
+I purchased something and the seller hasn't received the money yet, but it has been deducted from my account.	reverted_card_payment?
+Are there any limits if I use these virtual cards?	disposable_card_limits
+I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?	virtual_card_not_working
+Will a transfer incur a fee?	top_up_by_bank_transfer_charge
+how do you get exchange rates	exchange_rate
+Can you tell me where I can order a virtual card?	getting_virtual_card
+I didn't receive the amount of cash I requested for the ATM.	wrong_amount_of_cash_received
+I was just shopping online for some tickets and the payment was declined by you.  Why has this happened?  I am certain I have the right amount of funds in my account.	declined_card_payment
+I made a transfer but my balance hasn't been updated	balance_not_updated_after_bank_transfer
+I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?	failed_transfer
+Is identity verification required for me to use my account?	why_verify_identity
+How do I initiated a bank transfer to top up?	transfer_into_account
+How to order a virtual card	getting_virtual_card
+What do I have to do to change my pin?	change_pin
+Hello, I am buying a flat and need the inital payment for the mortgage to go through. It keeps showing up as error, what is going on? Can you please help me make this transfer?	failed_transfer
+A few hours ago I made a bank transfer from my UK account but I don't see that it has arrived.   Can you check and see if all is ok please?	balance_not_updated_after_bank_transfer
+Why am I missing my refund	Refund_not_showing_up
+Where can I view my PIN?	pin_blocked
+What do I do if it says my card payment has been cancelled?	reverted_card_payment?
+Why was my PIN blocked?	pin_blocked
+I transferred some money but the balance stayed the same.	balance_not_updated_after_bank_transfer
+I want to get my hands on one of those virtual cards!	getting_virtual_card
+Please tell me about SWIFT transfers at this bank.	top_up_by_bank_transfer_charge
+My card payment has failed.	declined_card_payment
+What time will a transfer from the US take?	transfer_timing
+Is there a way to change my PIN without having to go to the bank?	change_pin
+Can you explain why my payment was charged a fee?	card_payment_fee_charged
+I transferred money from the US, How long does it take?	transfer_timing
+I had a decline on my card. Why?	declined_card_payment
+what are your exchange rates at?	exchange_rate
+I got the incorrect amount of money given to me from my account	wrong_amount_of_cash_received
+I do not know where the transaction is.	transfer_not_received_by_recipient
+I'd like to make a SEPA transfer to my account, but will I be charged?	top_up_by_bank_transfer_charge
+Can I use SWIFT transfers?	top_up_by_bank_transfer_charge
+Can i change my PIN at the ATM?	change_pin
+You have declined my  payment.	declined_card_payment
+I completed a transfer within the UK two days ago, but it is still not showing received.  I have verified the account number is correct already.  Is there anything else I need to do or is there a problem?	transfer_not_received_by_recipient
+What is the time frame that transfers normally take from a UK account? I just completed a transfer and nothing shows up. I need to know if everything is alright.	balance_not_updated_after_bank_transfer
+I need my refund	Refund_not_showing_up
+Hi. About two hours ago I made a transfer from my bank which is in the UK, but I don't see it yet! Would you check what's going on with it, please?	balance_not_updated_after_bank_transfer
+Why did I not get my refund yet?	Refund_not_showing_up
+I paid with card and I was charged a fee	card_payment_fee_charged
+I tried to buy something online but my funds were transferred back to my account. What is happening?	reverted_card_payment?
+I've tried many times to make a payment, but it's not going through.  What's wrong?	declined_card_payment
+Unknowingly to me the payment sent to seller has been redeposied back in my account. I do not know why it would take out the payment and then put it back in my account. Can you resolve this as soon as possible?	reverted_card_payment?
+With one disposable card how many transactions can i do?	disposable_card_limits
+What happens if I forget my PIN?	pin_blocked
+Do you know why my card payment is declined?	declined_card_payment
+Where is the transfer to my account?	balance_not_updated_after_bank_transfer
+Can I change my PIN remotely?	change_pin
+Why hasn't my son received the transfer I sent to him earlier?	transfer_not_received_by_recipient
+How can I transfer funds from my bank to my top up account?	transfer_into_account
+Why hasn't my refund been appiled to my account?	Refund_not_showing_up
+I still haven't seen a refund on my account	Refund_not_showing_up
+when will i receive a US transfer	transfer_timing
+May I receive a different card pin	change_pin
+I could only take the amount of money that was available to me which was less then I expected.	wrong_amount_of_cash_received
+Why doesn't my card work for any transactions?	card_not_working
+Could you explain why my card payment did not work?	declined_card_payment
+I was charged for using my card?	card_payment_fee_charged
+What's the transfer time from Europe?	transfer_timing
+I need to urgently transfer something from China. How long will it approximately take?	transfer_timing
+Is it really necessary to verify my Identity?	why_verify_identity
+What is the best way to get my virtual card?	getting_virtual_card
+How do I order a virtual card?	getting_virtual_card
+May I change my PIN?	change_pin
+I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?	declined_card_payment
+I paid with card and was charged a fee that shouldn't be there!	card_payment_fee_charged
+Is there a reason my refund isn't showing on my statement?	Refund_not_showing_up
+Can you explain your exchange rates basis?	exchange_rate
+How can I obtain a virtual card?	getting_virtual_card
+Why isn't my virtual card working?	virtual_card_not_working
+I'm expecting a large refund from a store I returned merchandise to recently.  They say they have sent the money but I don't see it in my account, can you help.	Refund_not_showing_up
+What foreign exchange rate will I get?	exchange_rate
+The refund has not appeared in my account	Refund_not_showing_up
+What are the fees for top-ups?	top_up_by_bank_transfer_charge
+Errors keep showing up every time I try to make this transfer and I am on a time crunch,  could you please help.	failed_transfer
+The app says my transfer failed	failed_transfer
+Please provide me with the restrictions of the disposable cards.	disposable_card_limits
+Do I pay a fee for SEPA transfers?	top_up_by_bank_transfer_charge
+What cash machines will let me change my PIN?	change_pin
+The machine only paid me a hundred when I wanted 20	wrong_amount_of_cash_received
+I've been waiting for a refund to show up and I don't see it on my statement yet.	Refund_not_showing_up
+What is the function of the identity check	why_verify_identity
+What are the limits for disposable virtual cards?	disposable_card_limits
+Hi, Last week I have contacted the seller for a refund as directed by you, but i have not received the money yet. Please look into this issue with seller and help me in getting the refund.	Refund_not_showing_up
+I have no more money in my account.  Is there a way to do a bank transfer to put money into my account?	transfer_into_account
+I returned something to a  store but can't see my refund.	Refund_not_showing_up
+Do you need to know my first and last name?	why_verify_identity
+Can I transfer using SWIFT?	top_up_by_bank_transfer_charge
+Why do you need me to verify who I am?	why_verify_identity
+My cash received does not match what has been requested	wrong_amount_of_cash_received
+I paid with card and I think there was a fee applied.	card_payment_fee_charged
+Please check to see if the band transfer I made a while ago from my UK account has safely arrived.	balance_not_updated_after_bank_transfer
+Why do you need to know so much about me for my account?	why_verify_identity
+Can we skip verifying?	why_verify_identity
+I transferred some money to a friend of mine who urgently needs some money right now. How long will it take to get to her?	transfer_not_received_by_recipient
+how do i see what i transferred	balance_not_updated_after_bank_transfer
+What are the rules for using disposable virtual cards?	disposable_card_limits
+Was I charged extra for using my card?	card_payment_fee_charged
+What is the source of your exchange rates?	exchange_rate
+Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it?	reverted_card_payment?
+I had a payment reverted and would like to figure out why.	reverted_card_payment?
+I cannot make transactions with my virtual card.	virtual_card_not_working
+HOW LONG TO TAKE THE TIME TO SOLVE	card_not_working
+My card was rejected at the store for some reason, can you look into this for me?	declined_card_payment
+My card won't physically work.	card_not_working
+Why do you need to verify my identity?	why_verify_identity
+My card was declined in a shop	declined_card_payment
+My payment was put back, I think.	reverted_card_payment?
+What should I do if I've tried to enter my PIN too often?	pin_blocked
+My card payment has been cancelled	reverted_card_payment?
+I am looking to transfer some money from my other bank account into this one.	transfer_into_account
+I did not receive the right amount of cash I requested	wrong_amount_of_cash_received
+My identity hasn't been verified.  Can I use my account?	why_verify_identity
+How long does a transfer take to reach one's account.	transfer_timing
+How much am I charged to receive money?	top_up_by_bank_transfer_charge
+My refund is missing from my statement.	Refund_not_showing_up
+Am I limited on the amount of disposable cards I can possess?	disposable_card_limits
+Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.	failed_transfer
+It looks like my card payment might have been reverted.	reverted_card_payment?
+Who should I contact if the amount of my withdrawal doesn't correspond to the amount that I tried to take out of my account?	wrong_amount_of_cash_received
+Can I use my account before the identity verification is complete?	why_verify_identity
+let me know how many disposable cards I can have?	disposable_card_limits
+Why can't I see a transfer to my account?	balance_not_updated_after_bank_transfer
+Hello.  I ran into a problem with a transfer this morning.  I was trying to send money to some friends but when I tried to send it, the transfer failed.  I don't know what is causing the transfer to be rejected.  Please let me know what is causing the problem.  Thanks.	failed_transfer
+What happens if a merchant doesn't accept  you payment?	reverted_card_payment?
+I wanted to know why i got an additional fee when i use my card.	card_payment_fee_charged
+What is the reason for my card payment to be reverted?	reverted_card_payment?
+My transfer did not seem to work.	failed_transfer
+I can't use my card for anything	card_not_working
+I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number definitely is the right one, I've checked that already.	transfer_not_received_by_recipient
+How many days does a transfer from the US take?	transfer_timing
+Am I able to do a SWIFT transfer with you?	top_up_by_bank_transfer_charge
+The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue?	failed_transfer
+Can I change my PIN on holiday?	change_pin
+How to receive virtual card?	getting_virtual_card
+Can i make transactions before identity verification is complete?	why_verify_identity
+I tried to make a transfer but it failed	failed_transfer
+How much is it to receive money?	top_up_by_bank_transfer_charge
+I made a transfer a few hours ago from a UK banking account.  I do not yet see the transfer.  Please check on this for me.	balance_not_updated_after_bank_transfer
+My card does not work	card_not_working
+I have a friend who needs money as soon as possibly. If I were to transfer it how long will it take to get to her?	transfer_not_received_by_recipient
+I made a transfer from France a couple days ago and don't see the transaction yet. How long does an international transfer take?	balance_not_updated_after_bank_transfer
+I don't think I should have been charged a fee to use my card.	card_payment_fee_charged
+How long will a transaction to a friend take?	transfer_not_received_by_recipient
+Hi. I just withdrew cash from an ATM and received the wrong amount. However, my app shows the correct amount I withdrew. How do I get the rest of the cash?	wrong_amount_of_cash_received
+If my identy verifacation hasn't gone through can I use my account?	why_verify_identity
+I sent some money and the receiver can't access it.	transfer_not_received_by_recipient
+What is this extra fee?	card_payment_fee_charged
+What transfer methods do you accept?	transfer_into_account
+I was out today looking forward to paying with my new card, turns out the payment kept getting declined. This is really sad, what's going on?	declined_card_payment
+What could the reason be that my payment card was declined?	declined_card_payment
+I requested $100 but only got $20	wrong_amount_of_cash_received
+I'm wondering how long it takes for my money to get to me after a bank transfer.	balance_not_updated_after_bank_transfer
+Why is my refund missing from my  statement?	Refund_not_showing_up
+Why was I unable to finish this transfer?	failed_transfer
+I think someone saw my PIN and I am on vacation in Spain, can I change it locally at an ATM?	change_pin
+I didn't get all the cash I asked for	wrong_amount_of_cash_received
+Why was the price higher when I paid with my card?	card_payment_fee_charged
+It looks like my card payment was sent back.	reverted_card_payment?
+How long will a transfer from China take? I need to transfer something from there.	transfer_timing
+I've got a weird problem: I purchased something a week or maybe it was two weeks ago, and the funds have come back into my account! Can you explain this?	reverted_card_payment?
+I received a returned payment that I made.	reverted_card_payment?
+What happens if the ATM gives me the wrong amount of money?	wrong_amount_of_cash_received
+I can't use my virtual disposable card	virtual_card_not_working
+I am attempting to make a purchase online, but my card is not working.  I know there are funds available, is this an issue on the banks end?	reverted_card_payment?
+Why didn't I get the amount I requested at the ATM?	wrong_amount_of_cash_received
+Can I change my PIN at any cash machines?	change_pin
+Where can I check to see if there will be a fee added to my payment? Are there specific instances that will result in a fee added?	card_payment_fee_charged
+Paying in card resulted in a fee	card_payment_fee_charged
+i need a virtual card	getting_virtual_card
+Are there any hindrances to using a disposable virtual card?	disposable_card_limits
+Can you tell me why I can't make any transactions?	card_not_working
+I have to quickly transfer something to China. How long will it take to arrive there?	transfer_timing
+can i use my app to get a virtual card	getting_virtual_card
+When will my transfer process?	balance_not_updated_after_bank_transfer
+I don't understand the money transfer process.	transfer_into_account
+Why has my card payment been declined?	declined_card_payment
+How can I unlock the pin?	pin_blocked
+I need several disposable cards made per day.	disposable_card_limits
+Please tell my why I was charged a fee for using my card?	card_payment_fee_charged
+why has a transaction to a friend been delayed?	transfer_not_received_by_recipient
+I have money in a foreign account that I want to send to this account.	transfer_into_account
+I have used all my PIN tries, what now?	pin_blocked
+Why haven't I received a refund yet?	Refund_not_showing_up
+How long will it take for a bank transfer to show up on my account? It's been a couple hours but I havnt seen anything yet. Also it's from a UK account if that makes any difference.	balance_not_updated_after_bank_transfer
+Can I use my account even though the identity verification has not passed yet?	why_verify_identity
+How do I go forth on transferring a sum of money from one account to another?	transfer_into_account
+I did not get my virtual card yet, Why?	getting_virtual_card
+How does a transfer work?	transfer_into_account
+Which countries can I change my PIN in?	change_pin
+Where can I get a virtual card?	getting_virtual_card
+Why wouldn't a transfer go through?	failed_transfer
+What happens when a payment is reverted?	reverted_card_payment?
+I saw a fee on my app from one of my payments and I wasn't sure where it came from. Is there a way you can tell me when there's an additional fee for my payments?	card_payment_fee_charged
+The ATM gave me the wrong amount of cash today when I went to withdraw. The app says it was more.	wrong_amount_of_cash_received
+Please specify any limitations that come along with disposable cards.	disposable_card_limits
+I would like to transfer money into my account.	transfer_into_account
+What is the limit on disposable cards?	disposable_card_limits
+My virtual car is not working.	virtual_card_not_working
+I need to change my PIN.	change_pin
+My card didn't work in one of the shops.	declined_card_payment
+I am unable to use my card.	card_not_working
+I can't seem to get my virtual card to work.	virtual_card_not_working
+Can you please tell me why my transfer failed?	failed_transfer
+I didn't get all the money I asked for	wrong_amount_of_cash_received
+Can you tell me why I wasn't able to complete my transfer?	failed_transfer
+I took out cash from the ATM, but something must have went wrong, My account shows the correct amount of cash I took out, but the ATM didn't give me that amount. How do I get my money back?	wrong_amount_of_cash_received
+Is the exchange rate the same on weekends as the weekdays?	exchange_rate
+Is there a transaction limit on a disposable card?	disposable_card_limits
+Explain the extra fee on my card when paying.	card_payment_fee_charged
+Can I change my PIN if I want to?	change_pin
+How is my money transferred to the account	transfer_into_account
+I believe my card payment were reverted	reverted_card_payment?
+I have not received the amount of cash i was supposed to.	wrong_amount_of_cash_received
+I accidentally blocked my PIN. How do I reset it?	pin_blocked
+I have done a transfer within the country the day before yesterday, but it's still not there yet. Can you please check what's going on with that, the account number is the right one, I've checked that several times already.	transfer_not_received_by_recipient
+Hello. I'm trying to transfer some money to a friend but it keeps getting rejected. can you help me?	failed_transfer
+I noticed a new fee on my account. I didn't know there were fees for these payments. What is the policy?	card_payment_fee_charged
+"Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying ""they did not receive my payment"" then the payment was returned to my account. so I would like to see why it did that please."	reverted_card_payment?
+Can you let me know where my refund money is? I requested a refund a few days back, but it's not showing up yet.  Do you guys have the money yet? Maybe it's just not in my account.  Let me know when it will become available, please.	Refund_not_showing_up
+What are the steps to getting a virtual card?	getting_virtual_card
+How is this transfer supposed to work? It's not working for me.	failed_transfer
+Why isn't a recent refund on my statement?	Refund_not_showing_up
+I must make a transfer from China and it is urgent. How long before the transfer is complete?	transfer_timing
+How do I top up my account using transfer?	transfer_into_account
+My card is broke, what do I do?	card_not_working
+why would a merchant refuse a payment	reverted_card_payment?
+What do I do if I got the wrong amount at the ATM?	wrong_amount_of_cash_received
+At what ATM can I change my PIN?	change_pin
+What is the formula for your exchange rate?	exchange_rate
+How long will this transfer from europe take?	transfer_timing
+I asked for a refund but its not here yet	Refund_not_showing_up
+how much do you charge to accept transfers	top_up_by_bank_transfer_charge
+I tried using my card, but it doesn't work.	card_not_working
+How long does it take to get my money	transfer_timing
+Are there cash machines where I can change my PIN?	change_pin
+What is my identification used for?	why_verify_identity
+Why do I have to pay extra for using my card?	card_payment_fee_charged
+What should I do if my card payment was cancelled?	reverted_card_payment?
+I want to replace my current PIN.	change_pin
+Why do you need so much id info from me?	why_verify_identity
+Why is my card payment cancelled?	reverted_card_payment?
+What is taking so long with my refund?	Refund_not_showing_up
+My account is blocked because I entered the wrong pin too many times.  Help me unblock.	pin_blocked
+So I just went to the ATM to get some cash.  I input that I needed 100 pounds but I only got 80.  I have the receipt  and I am in need of the extra money.  How do I go about obtaining the missing amount?	wrong_amount_of_cash_received
+I cannot use my card.	card_not_working
+For SEPA transfers, what kind of charge will be applied?	top_up_by_bank_transfer_charge
+Is there a transaction limit for a disposable card?	disposable_card_limits
+Why was my Payment declined	declined_card_payment
+Why was I not able to complete a transfer?	failed_transfer
+I am missing a refund amount on my account.	Refund_not_showing_up
+Can I still use my account, even though the identity verification has not passed yet?	why_verify_identity
+My card failed to work when I was shopping in a store	declined_card_payment
+Why was I charged an extra fee when using a card?	card_payment_fee_charged
+What is the maximum transactions for one disposable card?	disposable_card_limits
+How can I go about transferring money to my account?	transfer_into_account
+It seems like my card payment didn't work.	declined_card_payment
+How long is my Europe transfer wait?	transfer_timing
+I noticed an extra fee when I paid with my card.	card_payment_fee_charged
+Can I quickly send a transfer from China?  How long will it take?	transfer_timing
+How can I transfer money from an outside bank?	transfer_into_account
+Is there a way yo change my PIN?	change_pin
+The virtual card won't work.	virtual_card_not_working
+Why did I not get a virtual card yet?	getting_virtual_card
+I went to withdraw some cash earlier today, but seems the ATM gave me the wrong amount of cash! The amount showing up in the app is a lot more	wrong_amount_of_cash_received
+Is there a fee for transfer top-up?	top_up_by_bank_transfer_charge
+I desperately need to transfer something from China, Please give me the wait time.	transfer_timing
+What are the policies of disposable cards?	disposable_card_limits
+Why was I charged a fee for my card payment?	card_payment_fee_charged
+I'm not sure why the card payment didn't work.	declined_card_payment
+Can I have one of the virtual cards?	getting_virtual_card
+Was my transaction reverted with my card?	reverted_card_payment?
+I keep checking my statements but nothing shows up! I requested a refund a long time ago but seems it's not reaching my account for some reason. Can you please help me get the money back from the seller for me	Refund_not_showing_up
+I am required to make several disposable cards every day.	disposable_card_limits
+A transaction I did to my friend hasn't arrived yet, why?	transfer_not_received_by_recipient
+$20 came out instead of $100	wrong_amount_of_cash_received
+Is a bank transfer acceptable for topping up my account?	transfer_into_account
+I think my card payment has been stopped	reverted_card_payment?
+Today I was out eating and my card was declined. Why's that?	card_not_working
+Can I reset my PIN if it is blocked?	pin_blocked
+why hasn't my virtual card come yet?	getting_virtual_card
+Can you tell me why my card payment did not work?	declined_card_payment
+I need a new Pin how do I go about that?	change_pin
+I'd rather not use my physical card, how can I get a virtual card?	getting_virtual_card
+They said I would get a refund but I don't see it on my statement.	Refund_not_showing_up
+Are there charges for receiving a SEPA transfer?	top_up_by_bank_transfer_charge
+The amount of cash I received was not the full amount	wrong_amount_of_cash_received
+My transfer failed, why?	failed_transfer
+I did a money transaction and dont have a receipt	transfer_not_received_by_recipient
+My pin was blocked, how do I make it so I can use it?	pin_blocked
+When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?	pin_blocked
+What can I do to make my physical card work?	card_not_working
+I could not use my card in a store.	declined_card_payment
+What is the maximum transactions I can use on a disposable card?	disposable_card_limits
+Why do I have to give you my drivers license	why_verify_identity
+How many disposable cards can I make in a day?	disposable_card_limits
+Did a WD earlier at an ATM.  The amount showing in the App is more than I got though.	wrong_amount_of_cash_received
+my cash balance less than what I thought	wrong_amount_of_cash_received
+My card doesn't accept any transaction at all. What's wrong??	card_not_working
+What is the time for a transfer?	transfer_not_received_by_recipient
+I didn't get the money I transferred	balance_not_updated_after_bank_transfer
+How quickly can I transfer something to China?	transfer_timing
+I requested a refund but am unable to see it in my account. Why is that?	Refund_not_showing_up
+Can you explain why I am now getting charged a fee for using my card?	card_payment_fee_charged
+The transfer on my account is not showing up.	balance_not_updated_after_bank_transfer
+Why was I not able to complete my transfer?	failed_transfer
+Why would a transfer fail?	failed_transfer
+I need to find out why my transfer didn't get there.	transfer_not_received_by_recipient
+What is the wait time until money reaches my account?	transfer_timing
+Help me create several temp cards every day.	disposable_card_limits
+Recipient has not received the money	transfer_not_received_by_recipient
+Is there a top up fee for transfer?	top_up_by_bank_transfer_charge
+My transfer to my account is missing.	balance_not_updated_after_bank_transfer
+I don't have a virtual card - how do I get one?	getting_virtual_card
+I am unable to use my card for some reason.	card_not_working
+Can I change my PIN in Austria?	change_pin
+Tell me how to top up my account using bank transfer.	transfer_into_account
+What is the system for determining the exchange rate?	exchange_rate
+How long until the transfer is reflected on my account balance?	transfer_timing
+I need a new PIN number.	pin_blocked
+What is this fee showing up in my account for?	card_payment_fee_charged
+My throwaway virtual card won't work	virtual_card_not_working
+When will the money from a transfer be made available on my account?	transfer_timing
+Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.	declined_card_payment
+What is your opinion on the exchange rate?	exchange_rate
+When do you charge fees on accounts? I just saw a charge on my statement.	card_payment_fee_charged
+Where do I go to unblock my PIN?	pin_blocked
+When will the transaction be done?	transfer_not_received_by_recipient
+Can I change my PIN without going to a bank?	change_pin
+Why is there a verification to identity	why_verify_identity
+Can I add money to my account via bank transfer?	transfer_into_account
+I have a missing refund	Refund_not_showing_up
+Why can't I get my virtual card to work?	virtual_card_not_working
+where do i go to transfer money from one account to this one	transfer_into_account
+I have been waiting for my transfer, shouldn't it be here already?	transfer_timing
+Why did I get blocked?	pin_blocked
+Can I change my PIN at any ATM?	change_pin
+Do I need to speak to a representative to change my pin?	change_pin
+I requested a refund from a seller a while ago, but when I check my statements it doesn't show up. Can you help me get my refund.	Refund_not_showing_up
+My card did not work at store.	declined_card_payment
+My money hasn't been transferred yet.	balance_not_updated_after_bank_transfer
+Do you know why my card payment has been declined?	declined_card_payment
+I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?	reverted_card_payment?
+|I moved out of my old house two weeks ago and cancelled my direct debit to my old landlord, this direct debit was working fine.  Now I've moved in to a new place and set up a transfer to a new landlord but it's not reached her yet, can you check it please?	transfer_not_received_by_recipient
+Why hasn't my friend received the transaction?	transfer_not_received_by_recipient
+Will you reinstate my PIN?	pin_blocked
+My refund is not showing.	Refund_not_showing_up
+Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.	card_payment_fee_charged
+Why won't the ATM let me withdraw money?	declined_cash_withdrawal
+From what countries can I use this product?	country_support
+Will you send me a new card in China?	card_about_to_expire
+Why is it I am charged an extra fee when I use the ATM?	cash_withdrawal_charge
+I deposited a cheque but the cash hasn't arrived yet	balance_not_updated_after_cheque_or_cash_deposit
+The incorrect rate was used in my foreign purchase	card_payment_wrong_exchange_rate
+My first choice would be Mastercard.	visa_or_mastercard
+I can't log into my account because I lost my password	passcode_forgotten
+Why was my request for cash declined?	declined_cash_withdrawal
+Um, my top up didn't work	top_up_failed
+My statement shows an extra fee - what is it?	extra_charge_on_statement
+The disposable cards, what are they for?	get_disposable_virtual_card
+I want this amount reversed out of my account.	request_refund
+Can I top up with cash	top_up_by_cash_or_cheque
+Can I update my details?	edit_personal_details
+I finished my transfer. I am having an issue with it still pending. It has been a long time and i'm growing impatient	pending_transfer
+Is it possible to get both Mastercard and Visa card from you?	visa_or_mastercard
+Since I just got married I need to change my name.	edit_personal_details
+I received the wrong exchange rate for an item i bought.	card_payment_wrong_exchange_rate
+can I transfer my salary if it's in a different currency?	receiving_money
+What currency is acceptable for a top up?	supported_cards_and_currencies
+Am I permitted to have a spare card?	getting_spare_card
+I have some transactions on my account I did not make. Can you cancel my card and prevent further use.	compromised_card
+Any hidden fees associated with the international card if money is added?	top_up_by_card_charge
+What do you charge for an exchange fee?	exchange_charge
+I just looked at my app and it seems I was charged extra, why is that?	extra_charge_on_statement
+Help! In the app there is a payment that I don't remember.	card_payment_not_recognised
+Will the system automatically top up itself?	automatic_top_up
+Is there a reason my top-up has not gone through?	pending_top_up
+Help!  There is a cash withdrawl on the account that I didn't make!	cash_withdrawal_not_recognised
+can i get a card if i live in the US?	country_support
+I need a disposable virtual card, how do I get one?	get_disposable_virtual_card
+hello I have lost my phone and I'm worried someone's going to steal money from me	lost_or_stolen_phone
+What are the top up charges for US cards?	top_up_by_card_charge
+I would like to change currency	exchange_via_app
+How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?	declined_cash_withdrawal
+I made a mistake this morning when I did a transfer. How do I reverse it?	cancel_transfer
+Hey I thought transfers were free.  Why are you charging me?	transfer_fee_charged
+Why hasn't my payment gone through?	pending_card_payment
+Do I have to pay for a physical card?	order_physical_card
+I can't verify my ID. Why?	unable_to_verify_identity
+Can I activate a card in the app?	card_linking
+The ATM kept my card?	card_swallowed
+Where can I find your locations?	country_support
+There's a cash withdrawal I am certain I did not make	cash_withdrawal_not_recognised
+Is there anything I need to do since my phone was stolen?	lost_or_stolen_phone
+What can I use to receive my salary?	receiving_money
+when will my transfer clear	pending_transfer
+I was at an ATM and it swallowed my card.	card_swallowed
+Can I change my information?	edit_personal_details
+I wanted to use my contactless at the metro today but it didn't accept it!	contactless_not_working
+I got my new card. How do I activate it?	activate_my_card
+Is the 1 pound charge going to be reimbursed on my card?	extra_charge_on_statement
+What do you charge for top ups?	top_up_by_card_charge
+I just got a card, how can I add it to the app?	card_linking
+Can I use a check to top up?	top_up_by_cash_or_cheque
+What are the top-up fees?	top_up_by_card_charge
+My transfer is still pending	pending_transfer
+My top up isn't in my wallet.	topping_up_by_card
+I bought something in a foreign currency but the rate applied is wrong!	card_payment_wrong_exchange_rate
+What is a pending cash withdrawal?	pending_cash_withdrawal
+Can I use my card for payment all over the world?	card_acceptance
+I was trying to use contactless earlier, but it didn't work.	contactless_not_working
+What card types can I choose from?	visa_or_mastercard
+Please help me delete this account.	terminate_account
+why isnt my cash withdrawal showing	pending_cash_withdrawal
+I was made to pay an additional pound!	extra_charge_on_statement
+I do not recognise this card payment.	card_payment_not_recognised
+Why isn't top-up working? My top-up money disappeared after I saw that it was successfully transferred. Is it gone? Where did it go?	top_up_reverted
+Next time maybe let people know that buying things from another country costs extra. I used my card to purchase an item from another country and I was charged for the item and also an extra fee it looks like. I wasnt aware of this and I think I should get a refund.	transfer_fee_charged
+Can I have it delivered on a specific date?	card_delivery_estimate
+Why are the things I bought earlier today still showing as pending?	pending_card_payment
+I want to know why I have been unable to withdrawn funds.	declined_cash_withdrawal
+Can I change my details because I moved?	edit_personal_details
+totally unacceptable.  I'm stranded with no cash because the ATM wouldn't give me any money!	declined_cash_withdrawal
+How can I tell if someone else is using my card?	compromised_card
+Is it normal to have to wait over a week for my new card?	card_arrival
+The ATM machines keep declining my card and I don't know why. I thought I had money in my account. Why is this happening?	declined_cash_withdrawal
+Why hasn't my withdrawal shown on my statement?	pending_cash_withdrawal
+Why isn't my balance updating after depositing cheques and cash.	balance_not_updated_after_cheque_or_cash_deposit
+I have a transaction showing up more than once.	transaction_charged_twice
+I can't use the app because I got mugged yesterday and they took everything. Please help.	lost_or_stolen_phone
+My card is lost!  Please help me!	lost_or_stolen_card
+Will a beneficiary not accept a transfer?	beneficiary_not_allowed
+There has been an unusual withdrawal from my account, can you help?	cash_withdrawal_not_recognised
+I relocated and need to change my personal details.	edit_personal_details
+The wrong account was used during a transaction.	cancel_transfer
+I am unhappy with my purchase, how do I cancel the order?	request_refund
+ATM still has my card	card_swallowed
+Can you assist on apple watch top ups?	apple_pay_or_google_pay
+There is a direct debit charge that I don't recognize, what can I do?	direct_debit_payment_not_recognised
+Am I able to return an item for a refund?	request_refund
+I see money go out that I didn't withdraw.	cash_withdrawal_not_recognised
+What do I do to close my account?	terminate_account
+Seems like my top-up has failed	top_up_failed
+I've lost track of my phone or someone stole it.	lost_or_stolen_phone
+How long can an EU transfer take?	pending_transfer
+How old do kids have to be to open an account?	age_limit
+How come a fee was charged when I tranferred money	transfer_fee_charged
+How come I got charged extra for withdrawing cash?	cash_withdrawal_charge
+I tried to use the ATM today but it would not accept my card.	declined_cash_withdrawal
+How can I find the nearest ATM?	atm_support
+I received my new card, how is it activated?	activate_my_card
+I should not have been charged a fee for cash withdrawal.	cash_withdrawal_charge
+Where can i top my card for free?	top_up_by_card_charge
+do i need to add money before i order a card	order_physical_card
+There is a record of payment I never submitted on the app.	card_payment_not_recognised
+Help, my phone was stolen, please advise!	lost_or_stolen_phone
+There is a duplicate payment on my card. Why?	transaction_charged_twice
+I am having trouble verifying my identity.	unable_to_verify_identity
+When will my transfer finish pending?	pending_transfer
+How can I tell if my top-up has been cancelled?	top_up_reverted
+What do I do if there is an electronic debit that is not correct?	direct_debit_payment_not_recognised
+Where's the money that got charged to my card? It's not showing up in my account balance	topping_up_by_card
+Can I use a cheque to top up my account	top_up_by_cash_or_cheque
+My card hasn't arrived.	card_arrival
+Why did I have to pay a fee when I got cash?	cash_withdrawal_charge
+Help!  I forgot my password.	passcode_forgotten
+I need my funds verified.	verify_source_of_funds
+What are the auto top-up policies?	automatic_top_up
+My money hasn't been deposited yet. When will it be?	pending_top_up
+I deposited cash this morning and I am still waiting	balance_not_updated_after_cheque_or_cash_deposit
+Which fiat currencies are supported?	fiat_currency_support
+The app doesn't believe its me.	unable_to_verify_identity
+Why am I charged a fee for withdrawing cash?	cash_withdrawal_charge
+Are there any top-up limits?	top_up_limits
+What is the youngest age for an account?	age_limit
+Can I let other people have access to my account in order to top up?	topping_up_by_card
+I thought transfers were free, why was I charged a fee?	transfer_fee_charged
+How do I get a new card as your machine swallowed mine!	card_swallowed
+I have lost my card! What is my next step?	lost_or_stolen_card
+Cash I didn't get shows in my app.	cash_withdrawal_not_recognised
+Yesterday I topped up my card. Why didn't it complete as it still pending?	pending_top_up
+I need assistance with understanding which fiat currencies that you support.	fiat_currency_support
+I want a refund on a direct debit.	direct_debit_payment_not_recognised
+tell me how I can order my card.	order_physical_card
+I received my American Express card, but I am having problems making it work with Apple pay.  Can you help me with this problem?	apple_pay_or_google_pay
+Where can the cards be delivered?	order_physical_card
+My card is missing!  Help!	lost_or_stolen_card
+How do I verify my identity online	verify_my_identity
+I want a refund for an item	request_refund
+How long is the delivery time to the US?	card_delivery_estimate
+There are transactions that I did not make on my account, I think someone has my information.	compromised_card
+Do you provide currency exchange to Euros?	fiat_currency_support
+What are the places that you deliver cards to?	order_physical_card
+When will my pending payment finish?	pending_card_payment
+Can I set the account to auto top-up?	automatic_top_up
+how can i track card you sent	card_arrival
+Why hasn't my payment shown up yet?	pending_card_payment
+Why is there a fee on my money transfer?	transfer_fee_charged
+I want to delete my account.	terminate_account
+How do I exchange AUD for GBP?	exchange_via_app
+Why can't I verify my id?	unable_to_verify_identity
+Has my top-up been cancelled?	top_up_reverted
+While I was checking out in the grocery store, I realized I needed cash so I requested some.  However, I noticed there was a fee for this transaction.  Why did I get charged a fee?	cash_withdrawal_charge
+Can I use top-up with Apple pay?	apple_pay_or_google_pay
+I see a direct debit that isn't mine? How can I get my money back?	direct_debit_payment_not_recognised
+How do I order a new card if my current one is about to expire?	card_about_to_expire
+My withdrawal is pending, why?	pending_cash_withdrawal
+What do I need to know about topping up?	top_up_by_card_charge
+I have my card, when whill my PIN be available?	get_physical_card
+I don't know what's going on but all of my transfers keep getting declined. I have checked over the recipient details twice. These details are all correct.	declined_transfer
+This is the first time I've tried to get my money out of an ATM and it didn't work. Please give me my money	declined_cash_withdrawal
+Are you only able to get a card if you're in the UK?	country_support
+Is my new card activated?	activate_my_card
+I made a payment that got charged twice instead of once.	transaction_charged_twice
+Is there a specific date i can have it delivered?	card_delivery_estimate
+What does it mean when a payment is pending?	pending_card_payment
+A foreign purchase I made has the incorrect rate applied to it.	card_payment_wrong_exchange_rate
+What fees to you have for top ups?	top_up_by_card_charge
+How do I activate a card I received?	activate_my_card
+I need to set up an account for my daughter, how would I do that?	age_limit
+What is the verification code for my top up card?	verify_top_up
+I need to get some Euros for my holiday. Am I able to exchange some of my money?	exchange_via_app
+I bought a product a week ago, but may need to return it.	request_refund
+There is a single payment on my card which shows as pending.	pending_card_payment
+I have a card that was deactivated can I reactivate it?	card_linking
+My transfer hasn't appeared yet	pending_transfer
+I prefer Visa, can I get that instead?	visa_or_mastercard
+How can I fix my card, it got declined twice.	declined_transfer
+Are the top-ups limited?	top_up_limits
+Is it possible to get one the your cards in the EU?	country_support
+I was under the impression that you offer crypto top up; however,  it doesn't appear to be working. The money has now disappeared from my account so I need to know what the deal is?	top_up_reverted
+my cash out is still pending	pending_cash_withdrawal
+Why hasn't my balance been updated? I've deposited a few cheques some days ago!	balance_not_updated_after_cheque_or_cash_deposit
+Help Me!  I lost my card.  What should I do?	lost_or_stolen_card
+I might be paranoid, but someone may be using my card.	compromised_card
+Every ATM I visit is rejecting my card and I don't know why. There should be money on it. Can you check it to see if something is wrong or if I'm doing something wrong?	declined_cash_withdrawal
+Where is the closest Mastercard ATM?	atm_support
+I accidentally left my phone at the hotel so now I'm not able to use the app.	lost_or_stolen_phone
+The exchange rate is bad. Are you sure this is the exchange rate?	card_payment_wrong_exchange_rate
+If I order a card when does it arrive?	card_delivery_estimate
+Can I see my available money?	verify_source_of_funds
+I need to terminate my account immediately.	terminate_account
+How can I know where did my funds come from?	verify_source_of_funds
+I have a trip coming up and want to add money automatically.	automatic_top_up
+I am trying  to  transfer and  it has been  stopped why is  that	beneficiary_not_allowed
+Can I freeze my card right now?	compromised_card
+Where are the cards delivered to	order_physical_card
+Do I have to pay for exchanging currencies?	exchange_charge
+How to receive the actual card	order_physical_card
+I used my card to top up, but the money is not there!	topping_up_by_card
+My top-up didn't go through	top_up_failed
+I tried to make a cash withdrawal and it was declined. Why did this happen?	declined_cash_withdrawal
+I bought an item at the wrong exchange rate.	card_payment_wrong_exchange_rate
+got married and need to change name	edit_personal_details
+Top up is not working even though I have my AMEX in apple pay.	apple_pay_or_google_pay
+I can't use the app because I got mugged yesterday and they took everything. I need some help.	lost_or_stolen_phone
+I need you to delete my account now.	terminate_account
+I was charged a fee for my transfer.	transfer_fee_charged
+There is a pending payment on my account, what does this mean?	pending_card_payment
+Hi i received an error message informing me about the transaction failure. I have done the money transfer before and it never failed. Please let me know what is the issue this time.	beneficiary_not_allowed
+For some reason my contactless won't work for me.	contactless_not_working
+My transaction went through but I was charged a fee. Why?	transfer_fee_charged
+A cash withdrawal that I didn't authorize is shown on my account - can you please cancel my card as soon as possible?	cash_withdrawal_not_recognised
+Why is my payment still pending?	pending_card_payment
+Your service is bad.  Close my account.	terminate_account
+how do i get a refund for a direct debit payment i didn't make	direct_debit_payment_not_recognised
+I am still waiting for a the cash I deposited this morning	balance_not_updated_after_cheque_or_cash_deposit
+When should I expect to receive my card?	card_delivery_estimate
+I believe my card has been compromised as there are funds showing that I did not receive.	cash_withdrawal_not_recognised
+stolen phone, what should i do	lost_or_stolen_phone
+Is it normal to have to verify my top-up or is something wrong?	verify_top_up
+The card PIN?	get_physical_card
+Can I space out how often money is transferred along my travels?	automatic_top_up
+Please can you block the transaction I just sent from my account? It was a payment but I accidently typed in the wrong details and think it might have gone to the wrong place.	cancel_transfer
+What are the benefits of a disposable card?	get_disposable_virtual_card
+I need a Visa and a Mastercard from you.	visa_or_mastercard
+Do I need to order a new card before it expires?	card_about_to_expire
+Why hasnt my top up gone through yet?? I thought it was suppose to be instant? Am I wrong? Why is it still pending?	pending_top_up
+I got some cash of an ATM earlier but this shows up as pending in the app. How can this be still pending, I've got the cash already?	pending_cash_withdrawal
+I can't enter my passcode.	passcode_forgotten
+I am getting continuous failure for all my transfers. I have cross checked each recipient detail again and again and everything is correct.	declined_transfer
+If I exchange currencies frequently, is there a discount?	exchange_charge
+Why was my cash withdrawal declined?	declined_cash_withdrawal
+Will I be able to use my card anywhere?	card_acceptance
+I got mugged yesterday and lost access to the app. I need to regain it.	lost_or_stolen_phone
+Is there a reason for my top up to be cancelled?	top_up_reverted
+Why hasn't my cash arrived from a deposited check?	balance_not_updated_after_cheque_or_cash_deposit
+The exchange rate I was charged for a purchase was not right.	card_payment_wrong_exchange_rate
+I have been charged twice on my statement.	transaction_charged_twice
+Why did I get charged more than once?	transaction_charged_twice
+Why is a payment showing up on my card as pending?	pending_card_payment
+There is a suspicious cash withdraw on the account.	cash_withdrawal_not_recognised
+Can I use the system Google Pay for top-ups?	apple_pay_or_google_pay
+I don't appreciate the extra fees being siphoned from my account. I was helping some friends move to Japan and we were buying home decorations at the local stores. The  receipts differed greatly from what showed up in my bank account and my statement. When can I expect the extra fees to be back in my account?	transfer_fee_charged
+I'd like to delete my account.	terminate_account
+I don't live in the UK.  Can I still get a card?	country_support
+Hello, I tried to top up with my card, but it didn't work. I just got it a couple days before and it works fine. What's the deal? Can you check into this?	top_up_failed
+my card was not in the mail again can you advise?	card_delivery_estimate
+What do I need to do to change the address on my account?	edit_personal_details
+What does the €1 fee mean?	extra_charge_on_statement
+Can I use my card for online payments?	card_acceptance
+Where can I find the card PIN?	get_physical_card
+I have an unusual payment in my statement	card_payment_not_recognised
+I moved to a new city and need to change my address	edit_personal_details
+What countries can I use my account in?	country_support
+Is there a way to link cards if I have one of yours?	card_linking
+I made a mistake and did a transaction to a wrong account, can I cancel?	cancel_transfer
+The see the rate applied to my transaction was wrong at the atm.	wrong_exchange_rate_for_cash_withdrawal
+Are there ATM fees?	cash_withdrawal_charge
+how to get a new card in china	card_about_to_expire
+I got some cash out of the ATM over the holiday and it seems that I've been grossly overcharged. I wouldn't have done that if I knew of these outrageous charges!	wrong_exchange_rate_for_cash_withdrawal
+I have used my account abroad for a while without any fees, why am I being charged additional fees all of a sudden?	transfer_fee_charged
+I don't remember my login code	passcode_forgotten
+Transfer could not be completed due to being declined.	declined_transfer
+In exchange for top ups will you take fees?	top_up_by_card_charge
+I have friends that would like to top-up my account is that possible?	topping_up_by_card
+I forgot my password to get into the app!	passcode_forgotten
+What is the wait time for delivery to the US?	card_delivery_estimate
+how do i find out about transfers	receiving_money
+Is there restrictions on where I can use my card?	card_acceptance
+Do you know if my top-up has been cancelled?	top_up_reverted
+I wanna revert a transaction i did this morning.	cancel_transfer
+Can you tell me why I haven't received my new card?	card_arrival
+I am still waiting for a transfer to show up	pending_transfer
+Why can't I top up by cheque?	top_up_by_cash_or_cheque
+I received the wrong color and size, can I return it?	request_refund
+What if I need my salary in another currency?	receiving_money
+I have a transfer that is pending.	pending_transfer
+Can my account be topped-up by friends of mine.	topping_up_by_card
+what currencies can i exchange between on your app?	exchange_via_app
+Do you accept checks?	top_up_by_cash_or_cheque
+I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it.	compromised_card
+My top-up seems to be pending for a long time?	pending_top_up
+Where would I find top up by cash deposit?	top_up_by_cash_or_cheque
+Why is my top-up showing as reverted?	top_up_reverted
+How can I receive money?	receiving_money
+I didn't want to make a transaction, I want to revert it	cancel_transfer
+Is there a way I can get a Visa card?	visa_or_mastercard
+Why would a transfer to an account not be allowed?	beneficiary_not_allowed
+I need more physical cards than I have right now!	getting_spare_card
+What should I do if I see a withdrawal is pending?	pending_cash_withdrawal
+How long after a failed topup will funds refurn to account	pending_top_up
+Could not complete transfer, states 'declined'	declined_transfer
+is it possible to cancel transactions?	cancel_transfer
+How can I tell where the money came from?	verify_source_of_funds
+how long does it take to reflect in my balance a top up	pending_top_up
+something is wrong with my exchange rate charge	card_payment_wrong_exchange_rate
+The rate of exchange isn't right for my cash withdrawal.	wrong_exchange_rate_for_cash_withdrawal
+How do I start an exchange between GBP and AUD?	exchange_via_app
+I need to see where my money came from.	verify_source_of_funds
+What locations can a card be delivered to?	order_physical_card
+Why is it saying I have a pending payment?	pending_card_payment
+I haven't received the money from the check I deposited.	balance_not_updated_after_cheque_or_cash_deposit
+Can you tell me the countries you provide support for.	country_support
+Seems like my top-up has been cancelled	top_up_reverted
+Someone else charged my card!	direct_debit_payment_not_recognised
+I have a pending transfer	pending_transfer
+How do I get a refund for something I bought?	request_refund
+My account shows I have been charged twice for the same meal. How do I get the second payment voided and returned to me? I do not eat out much and my family is living paycheck to paycheck,  mostly. I cannot afford to spend more money than necessary, as is, so I must see to it that the cost be promptly credited back onto my card.	transaction_charged_twice
+Are there any ATM machines near me?	atm_support
+I thought you offer crypto top up but it doesn't seem to be right ? Money just disappeared from my account, How it would work ?	top_up_reverted
+I received a fee for obtaining cash, is this correct?	cash_withdrawal_charge
+I don't recognize this payment on my app, I am sure I didn't spend any money there.	card_payment_not_recognised
+I tried to withdraw money but I was declined!	declined_cash_withdrawal
+What other credit cards can I use?	supported_cards_and_currencies
+How do I replace a stolen card?	lost_or_stolen_card
+Why isn't my cash deposit showing up in my account?	balance_not_updated_after_cheque_or_cash_deposit
+How do I find out what countries you service and what countries you do not?	country_support
+Why was money taken for a transfer?	transfer_fee_charged
+What are the various currencies and cards that you offer support for?	supported_cards_and_currencies
+What is the daily limit on my card?	top_up_limits
+I don't recognize a purchase that was made with my card.	card_payment_not_recognised
+How do I cancel a purchase?	request_refund
+I need to know why my credit card was declined for top up? What is the deal here and why did it not go through?	top_up_failed
+im not paying this transfer fee	transfer_fee_charged
+What fiat currencies are used with holdings and exchanges?	fiat_currency_support
+Is there anywhere  In the  Eu  this card can not be delivered in	country_support
+There is a debit paymet that I don't recognize.	direct_debit_payment_not_recognised
+Do I have a choice for a Mastercard?	visa_or_mastercard
+What do I need to verify my identity	verify_my_identity
+I need someone to alert me as to what's going on. I had transferred an amount but the receiver is saying that the amount is somewhat less than what I sent over. I now have to make another transfer to make up the difference.	transfer_fee_charged
+I've changed my mind on an item.  How do I get a refund?	request_refund
+How do I do a successful transfer to an account?	beneficiary_not_allowed
+Are there any restrictions causing my transfer to be declined?	declined_transfer
+what are limits to top up	top_up_limits
+I want to start using my card, how do I activate it?	activate_my_card
+My bag got stolen with all my cards. Can you please cancel my card and send a new one?	lost_or_stolen_card
+How old do you have to be?	age_limit
+Why did I get a fee from the ATM?	cash_withdrawal_charge
+My contactless is non-functional.	contactless_not_working
+How do I transfer funds if I am paid in GBP?	receiving_money
+I went to top up and it is no longer there.  Was it sent back?	top_up_reverted
+Why is the exchange rate different on my recent purchase?	card_payment_wrong_exchange_rate
+Please tell me how you can stop unauthorized payments from being made on my card since on this bill I see that this has happened. There are transactions that I never made from a place I've never been to.	compromised_card
+Where are the options to top up with a cheque on my account?	top_up_by_cash_or_cheque
+I have a payment listed in error.	card_payment_not_recognised
+Why does my statement show various transaction times?	transaction_charged_twice
+When I topped up the app has seemed to reverted it.	top_up_reverted
+Can I use check to deposit?	top_up_by_cash_or_cheque
+So, I was just charged for my recent ATM withdrawal and any withdrawal prior to this has been free. What is the issue here?	cash_withdrawal_charge
+Are there fees for adding money with an International card?	top_up_by_card_charge
+phone is gone, what should i do	lost_or_stolen_phone
+Does Google Pay offer a top up option?	apple_pay_or_google_pay
+Is my PIN recorded anywhere?	get_physical_card
+Why am I being charged more ?	card_payment_wrong_exchange_rate
+I want to get a Visa	visa_or_mastercard
+Does auto top-up have a limit?	automatic_top_up
+What if my top up is reverted?	top_up_reverted
+I don't understand why my card payment is pending.  It has been pending for too long.  Why is this and when might it go through?	pending_card_payment
+Is my country supported	country_support
+why is the exchange rate for a Foreign ATM different	wrong_exchange_rate_for_cash_withdrawal
+I want to stop my account	terminate_account
+My card is gone I think it was stolen	lost_or_stolen_card
+i dont recognise some of these transactions, i think someone has my card details	compromised_card
+I sent a cheque a few days ago and i noticed that no money has been put on my account. Can you please tell me the situation of my account?	balance_not_updated_after_cheque_or_cash_deposit
+I have tried to submit a transfer a couple of times now, and for some reason, it continues to be unsuccessful. Do you know why this may be?	beneficiary_not_allowed
+I got a message that my transfer was declined.	declined_transfer
+Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP.	lost_or_stolen_card
+I wanted to transfer money to another account, but now I don't have to so I'd like to cancel said transfer. How can I do that?	cancel_transfer
+Why did using an ATM cause me to be charged an additional fee?	cash_withdrawal_charge
+There is a transaction showing up several times.	transaction_charged_twice
+Is there a reason my new card hasn't arrived?	card_arrival
+My top up did not complete.	pending_top_up
+Do you accept Visa or Mastercard?	visa_or_mastercard
+Why isn't my purchase exchange rate correct?	card_payment_wrong_exchange_rate
+How much is it to use my US debit or credit card to top up?	top_up_by_card_charge
+Can someone help with my passcode?	passcode_forgotten
+I checked the app and there is a payment that I don't recognize.	card_payment_not_recognised
+$1 charge in transaction.	extra_charge_on_statement
+Why is the cash withdrawal under pending?	pending_cash_withdrawal
+A payment shows up on the app that I never made.	card_payment_not_recognised
+Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.	pending_card_payment
+What documents do I need for the identity check?	verify_my_identity
+I am seeing pending from the card payment I made.	pending_card_payment
+What currencies and cards do you support?	supported_cards_and_currencies
+Are all fiat currencies supported?	fiat_currency_support
+What's my limit for topping up?	top_up_limits
+I need some spare physical cards.	getting_spare_card
+Why is my cash still pending that I put in ATM?	pending_cash_withdrawal
+My card is showing the same transaction over and over again.	transaction_charged_twice
+It appears that I am being double charged for some items that I have purchased this past week.  Please review and correct.	transaction_charged_twice
+Where in the app do I go to verify my identity?	verify_my_identity
+What do I do if my card is stolen?	lost_or_stolen_card
+What is your age limit?	age_limit
+I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund.	card_payment_wrong_exchange_rate
+Can I use this account to receive my salary?	receiving_money
+I tried to top off using the card, but the money just disappeared?	topping_up_by_card
+When I topped up, the app reverted my funds.	top_up_reverted
+Can I have another card in addition to my first one?	getting_spare_card
+I happened to forget my password	passcode_forgotten
+I stupidly initiated a rent payment from the wrong account yesterday. It can't be paid from that account, but it really needs to get paid on time. Am I able to move the payment to the right account?	cancel_transfer
+I'd like to get another card	getting_spare_card
+I moved so I need to change my address. How do I do that?	edit_personal_details
+what is this fee for transfering	transfer_fee_charged
+I have trouble proving my identity.	unable_to_verify_identity
+Someone might be using my card that is not me.	compromised_card
+I'm not satisfied with the services that you are providing.  I would like to end my services and delete my account.	terminate_account
+I am waiting for a payment to go through.	pending_card_payment
+When I tried to access my cash, I wasn't allowed!	declined_cash_withdrawal
+Is my account able to be topped up by my friends?	topping_up_by_card
+How do I use contactless payments?	contactless_not_working
+What all currencies can be exchanged?	exchange_via_app
+I made a payment that is not yet complete.	pending_card_payment
+Why has my top-up been returned to my account?	top_up_reverted
+There is a direct debit I do not recognise in my statement	direct_debit_payment_not_recognised
+Are there charges for cash withdrawals?	cash_withdrawal_charge
+I need to cancel a purchase that I made the other day.	request_refund
+what is this charge i didnt do it what can i do	direct_debit_payment_not_recognised
+Is it possible to cancel a transaction?	cancel_transfer
+There are a couple payments with my card displayed in the app which I didn't make. What is happening? Maybe someone has access to my card.	card_payment_not_recognised
+Why are my transfers being declined? It normally works but now it's declining my card. I've tried it a few times but it's still not working.	declined_transfer
+What is this €1 charge?	extra_charge_on_statement
+I seem to of forgotten my passcode.	passcode_forgotten
+What's the deal with verifying the top-up?	verify_top_up
+Why can't I buy cryptocurrency on the app?	beneficiary_not_allowed
+How to exchange my currency	exchange_via_app
+Can I verify the source of my funds?	verify_source_of_funds
+I got billed an extra pound!	extra_charge_on_statement
+How long is a top up supposed to be pending, because an hour is too long! Can you fix this to go through?	pending_top_up
+Can I use my card wherever I want?	card_acceptance
+Why is there a cash withdrawal I didn't make?	cash_withdrawal_not_recognised
+I wasn't able to do a transfer to an account	beneficiary_not_allowed
+I can't verify my identity.	unable_to_verify_identity
+In what increments can I top-up my card?	automatic_top_up
+Can I use a Visa or Mastercard?	visa_or_mastercard
+Somebody has stolen my card, I need help please.	lost_or_stolen_card
+You applied the wrong exchange rate while I was traveling outside the country.	wrong_exchange_rate_for_cash_withdrawal
+Do I need to do anything special for my friend to send money to my account?	receiving_money
+Fees for currency exchange	exchange_charge
+My new card is here, what's the process for activating it?	activate_my_card
+Can I reset my password?  I don't know what it is.	passcode_forgotten
+Is it possible to cancel my transfer?	cancel_transfer
+what do i do if my verification failed	unable_to_verify_identity
+I know I didn't make this payment showing up on my card, I don't remember this person at all.	card_payment_not_recognised
+How much does it cost for a physical card?	order_physical_card
+Why has transferring money resulted in a charge?	transfer_fee_charged
+Where can I get a physical card?	order_physical_card
+Why hasn't my top up gone through?	pending_top_up
+When exchanging currencies, is there an extra fee?	exchange_charge
+Where can I find information about where my money came from?	verify_source_of_funds
+I would like to retract my purchase.	request_refund
+I was getting cash and can't get my card back.	card_swallowed
+What should I do if I can't prove my identity.	unable_to_verify_identity
+can I be charged for topping up by card	top_up_by_card_charge
+I would like an account for my children, how do I go about doing this?	age_limit
+I did a transfer.  What is the extra fee?	transfer_fee_charged
+I have a pending transaction in my app. How is it still pending if I pulled the cash out from the ATM earlier?	pending_cash_withdrawal
+Is this card available to United States Residents?	country_support
+My phone was stolen! What do I need to do?	lost_or_stolen_phone
+Am I able to have a card sent to China?	card_about_to_expire
+Someone stole my phone yesterday :( is there anything I need to do?	lost_or_stolen_phone
+Can I use my new card?	activate_my_card
+Can I call to get my card activated?	activate_my_card
+I did a transfer and was charged a fee that I shouldn't have been!	transfer_fee_charged
+I got an unexpected charge on my transfers. How can I correct this?	transfer_fee_charged
+I don't understand why I was charged extra for withdrawing money?	cash_withdrawal_charge
+Hello, I have recently made a purchase and have decided to cancel my purchase. Is there any way that you can cancel that transaction for me so I can get the money back? It's very important.	request_refund
+I need my card quickly	card_delivery_estimate
+My card's expiring, what happens now?	card_about_to_expire
+Using an ATM caused me to incur an additional fee. Why?	cash_withdrawal_charge
+Who do I call to activate my new card?	activate_my_card
+I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it	declined_cash_withdrawal
+How do I make sure my transfer isn't goin to an unsupported merchant?	declined_transfer
+Is there a way to undo a transaction?	cancel_transfer
+Is it right that I've been charged for transferring money?	transfer_fee_charged
+Not sure what my password is.	passcode_forgotten
+How do I convert currencies with the app?	exchange_via_app
+Can I get money out of any machine?	atm_support
+If I see a payment in the app that I don't recognize, what should I do?	card_payment_not_recognised
+Whats the limit on my top up	top_up_limits
+I have a direct debit transaction I have not set up, but would like to .	direct_debit_payment_not_recognised
+I think the exchange rate for the cash I withdrew wasn't correct.	wrong_exchange_rate_for_cash_withdrawal
+why didnt a transfer to my account process	beneficiary_not_allowed
+I would like to know if you use Visa or Mastercard.	visa_or_mastercard
+who can put money in my account?	verify_source_of_funds
+Can my account be topped up by my friends?	topping_up_by_card
+I am having trouble activating my card.	activate_my_card
+With my new card, how may I activate it?	activate_my_card
+I tried to get gas but my money was gone!	topping_up_by_card
+I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative	top_up_failed
+i have tried everything to complete a transfer but can't, what should i do next	declined_transfer
+Why is my transfer more expensive than I thought?	transfer_fee_charged
+At which ATMs can I use this card?	atm_support
+is there something blocking me from making transfers	beneficiary_not_allowed
+My card got charged twice for the same thing!	transaction_charged_twice
+I transferred money to another country several days ago, but my transaction is still pending. i have checked that the accounts are keyed in correctly. what sees to be the problem?	pending_transfer
+what is the limit for top-ups?	top_up_limits
+why has a cash withdrawal charged me?	cash_withdrawal_charge
+Could you help my figure out the exchange fee?	exchange_charge
+I can not find my phone or it has been stolen.	lost_or_stolen_phone
+What currencies do you offer?	fiat_currency_support
+The cash abroad exchange rate is applied wrong.	wrong_exchange_rate_for_cash_withdrawal
+According to the app, I got cash from an ATM but I haven't made any transactions.	cash_withdrawal_not_recognised
+I attempted to top up my account but it's been frozen in a pending state for well over an hour now! Is this normal? I'm a new customer and this is my first time doing this. I assumed it would be done quicker than this.	pending_top_up
+How do you exchange currencies	exchange_via_app
+Using your app, would I be able to exchange between USD and GBP?	exchange_via_app
+I can't find the money I just added to my account.	pending_top_up
+I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?	lost_or_stolen_card
+When I received my cash; they had my exchange rate incorrect.	wrong_exchange_rate_for_cash_withdrawal
+Can my job deposit my wages directly into the account.	receiving_money
+Please help me!  I need to cancel a transaction.	cancel_transfer
+How old do we have to be?	age_limit
+I don't see me 'top up' in my wallet	topping_up_by_card
+Hello there, I tried using crypto top up today but it's not working for me, might it be due to the kind of bank I'm using or the country that I'm from?Money is also missing from my account	top_up_reverted
+Why does my statement have an extra fee?	extra_charge_on_statement
+Can I get some money exchanged?	exchange_via_app
+What can I do to verify my card?	verify_top_up
+If my account is low in funds, can I set an auto top-up?	automatic_top_up
+My top-up is taking a very long time to complete.	pending_top_up
+Why do we need to verify top-up?	verify_top_up
+Unusual direct deposit	direct_debit_payment_not_recognised
+How can I tell what the limit is to top-ups?	top_up_limits
+Hi, I was just checking over my card transactions and notice I was charged twice for a restaurant visit this week. Can you please remove one of these false charges from my account?	transaction_charged_twice
+There's a card payment I didn't make	card_payment_not_recognised
+Why was I charged a higher exchange rate when I bought something abroad?	card_payment_wrong_exchange_rate
+How much does it cost to get a new card?  Mine is almost expired.  How fast does it come?	card_about_to_expire
+atm ate my card	card_swallowed
+What do I do if I think someone has used my card?	compromised_card
+Help!  I think my phone may be stolen or lost!	lost_or_stolen_phone
+I am reluctant to use ATMs international because I don't get an accurate exchange rate	wrong_exchange_rate_for_cash_withdrawal
+I added money but my top-up wasn't processed by the app.	top_up_failed
+I have been trying to exchange this for crypto but the app won't work could you please help me?	beneficiary_not_allowed
+withdrawal pending meaning?	pending_cash_withdrawal
+How do I report my card lost or stolen?	lost_or_stolen_card
+How do I exchange currencies using the app?	exchange_via_app
+I have been charged twice this week for a couple of things on my card. Can you please check this out for me and return the double charged items back?	transaction_charged_twice
+The exchange rate from my card payment isn't right.	card_payment_wrong_exchange_rate
+Can I hold more than one currency?	fiat_currency_support
+I see in the app some cash was withdrawn, but it's not mine.	cash_withdrawal_not_recognised
+I need to cancel my recent transfer. I made a mistake. Please help quickly before the transfer goes through.	cancel_transfer
+I think someone stole my card number and brought stuff in different places that I have never been to. I need to suspend any further purchase on my credit card.	compromised_card
+Where's the verification code for the top-up card?	verify_top_up
+Why is there an extra charge of 1 dollar on my statement?	extra_charge_on_statement
+I am having a huge problem with my card being declined and it's really important that I top-up today.  Would you please look into this further and let me know how I can get this fixed?	top_up_failed
+I believe you charged me too much to exchange my money	card_payment_wrong_exchange_rate
+Can I use my Apple watch to fill my gas tank?	apple_pay_or_google_pay
+Why hasn't my ID been verified?	unable_to_verify_identity
+My card's expiration is approaching, how do I replace it.	card_about_to_expire
+What do I need to do to perform identity checks?	verify_my_identity
+Can friends add to my account	topping_up_by_card
+Could you please help me figure out why the seller has not received their money after I sent it.	pending_transfer
+I would like to use this cheque to top up.  Can you tell me how to do that?	top_up_by_cash_or_cheque
+Report stolen card	lost_or_stolen_card
+is there a way to see where funds come from	verify_source_of_funds
+My last name has changed and I need to update my account details.	edit_personal_details
+If I need GBP instead of AUD what do I do?	exchange_via_app
+And what about the Card's PIN?	get_physical_card
+I need to update my address.	edit_personal_details
+Which type of card will I receive?	visa_or_mastercard
+I'm a new customer and tried topping up today for the first time. It's still pending and doesn't seem to be working. I need to get this fixed.	pending_top_up
+I need to modify my details.	edit_personal_details
+I need a refund on an item I have not received.  Am I able to simply cancel the payment?  I don't know how to do this.	request_refund
+I tried topping up using my card, but the money is gone?	topping_up_by_card
+I had everything lined up to make a transfer, and then it rejected it.	declined_transfer
+Where do I go to get my new card linked?	card_linking
+Will I be charged a fee to top up using a debit or credit card?	top_up_by_card_charge
+i need to add express delivery if that's an option	card_delivery_estimate
+Where is this card accepted?	card_acceptance
+I saw on the app that a cash withdrawal was completed on my account; however, I did not complete it.	cash_withdrawal_not_recognised
+I want to use a cheque to pay.	top_up_by_cash_or_cheque
+Where will I find my card?	order_physical_card
+I tried to top up with my card but it's not working. I had just done this a couple days previously and it worked. Can you tell me what's going on here please?	top_up_failed
+Why am I seeing a transfer fee on my bank statement?	transfer_fee_charged
+Why is the exchange rate wrong when I purchase something abroad?	card_payment_wrong_exchange_rate
+Why was a transfer to an account not allowed?	beneficiary_not_allowed
+My credit card for was not approved for a top-up transaction.  What happened?	top_up_failed
+I went to an ATM to get cash, but the app says the withdrawal is still pending. How is that possible when I already have the cash with me?	pending_cash_withdrawal
+I need to exchange a currency - can I do that here?	exchange_via_app
+It's been some time since refilled the top-up.	pending_top_up
+Do ATM cash withdrawals carry a charge now? They've been free in the past, but all of a sudden I have to pay to make ATM withdrawals?	cash_withdrawal_charge
+Please double check my card - withdrawal was working fine so far, but this morning on the way to work it suddenly got declined!	declined_cash_withdrawal
+i want to close an account but im not sure about setting up a new one in the future, what do you recommend	terminate_account
+My bank card has expired, how can I get a new physical card?	card_about_to_expire
+How do i get my salary in the account?	receiving_money
+A cheque deposit hasn't posted to my account, when will my balance update?	balance_not_updated_after_cheque_or_cash_deposit
+Someone must have found my card details as I don't recognize these transactions.	compromised_card
+Can I exchange my money for EUR?	fiat_currency_support
+It won't let me verify my identity.	unable_to_verify_identity
+Do any of your machines provide cash from my home country? I don't have any money on me and I'm on holiday so I'm concerned. Also, will I be charged anything to do this?	wrong_exchange_rate_for_cash_withdrawal
+I am missing some funds from my account - I tried to transfer them using my credit card number, and it disappeared.	topping_up_by_card
+Why does my account show as pending a cash withdrawal from the ATM that I have already made?	pending_cash_withdrawal
+Where can I see the source of my money?	verify_source_of_funds
+I don't understand where this charge came from.	card_payment_not_recognised
+I ordered something online a while ago and I haven't gotten it. I would like a refund.	request_refund
+A 500 pound cash withdrawal was just made from my account, but I didn't make it. I am pretty sure my card has been compromised - can you help me?	cash_withdrawal_not_recognised
+Do I have an option between Visa and MasterCard?	visa_or_mastercard
+How can I verify my top-up card?	verify_top_up
+How can I activate my new card?	activate_my_card
+I'd like to apply for a Visa Card.	visa_or_mastercard
+Can I track my card while it is in the process of delivery?	card_arrival
+How old must I be to open an account?	age_limit
+Can you tell me the countries you operate in?	country_support
+I have made several unsuccessful attempts to make a transfer.  I'm getting frustrated at getting error messages and it not going through.	beneficiary_not_allowed
+I used to know my password, but not anymore.	passcode_forgotten
+Can i deposit my salary to this account?	receiving_money
+Is there a limit to how much I can top-up?	top_up_limits
+I'm dissatisfied with the service and would like to terminate the account.	terminate_account
+The app failed to verify my id.	unable_to_verify_identity
+Why do I have to verify the top-up?	verify_top_up
+Where can I withdraw money from?	atm_support
+Help me check where the funds came from.	verify_source_of_funds
+I still don't have a card. How do I get one?	order_physical_card
+How do I change my name?	edit_personal_details
+Although I am not located in the UK area, may i still receive a card?	country_support
+Why can't my beneficiary access my account?	beneficiary_not_allowed
+My card is due to expire	card_about_to_expire
+Why on earth is the exchange rate so bad?   Can I get a rate closer to the actual interbank rate?	card_payment_wrong_exchange_rate
+Where can I see where my funds came from?	verify_source_of_funds
+I need information about an extra €1 fee in my statement.	extra_charge_on_statement
+What does it mean if my payment is pending?	pending_card_payment
+Do you charge for physical cards	order_physical_card
+Someone else accessed my account and made a payment.	card_payment_not_recognised
+What do I do if my card expires soon?	card_about_to_expire
+Please assist me in activating the card.	activate_my_card
+I would like to use one of my cards for a family member. Is that allowed?	getting_spare_card
+I have a transfer that's pending and wanted to know how long it is going to take to process?	pending_transfer
+What is the maximum for auto top-up?	automatic_top_up
+I'd like to provide my daughter with a card - could I get an additional card from my account to give her?	getting_spare_card
+I made a transfer into my account and now I need to cancel it	cancel_transfer
+I have not received my pin yet	get_physical_card
+Can I exchange and hold all fiat currencies?	fiat_currency_support
+Help my activate my card.	activate_my_card
+how to change name on account	edit_personal_details
+I'm still waiting on my identity verification.	unable_to_verify_identity
+How do I freeze my card? I think someone is using it to make a bunch of online transactions.	compromised_card
+I tried to pay contactless at the bus today and it didn't work. Any ideas why?	contactless_not_working
+I need my card immediately.	card_delivery_estimate
+How do I edit my details?	edit_personal_details
+I was charged for getting cash.	cash_withdrawal_charge
+Everything was stolen from me.  I can't use the app.  Please advise.	lost_or_stolen_phone
+I found an unauthorized card payment	card_payment_not_recognised
+I don't see a money transfer yet	pending_transfer
+I noticed my transfer was declined.	declined_transfer
+I would like to change my personal details.	edit_personal_details
+Why would the app show a withdrawal that I did not make?	cash_withdrawal_not_recognised
+I have forgotten my passcode to access my app	passcode_forgotten
+I don't have my passcode to access the app.	passcode_forgotten
+What can I do if I lost my card?	lost_or_stolen_card
+Where do I order my card?	order_physical_card
+There is an extra charge on my app that I was not told about or I was aware of!	extra_charge_on_statement
+I need my card to be activated right now.	activate_my_card
+Where is my new card if I haven't received it yet?	card_arrival
+Can you tell me what currencies I can use to add money?	supported_cards_and_currencies
+Why is it taking so long for my cash withdrawal to no longer show as pending?	pending_cash_withdrawal
+When I got my cash, the amount was not what it should have been, based on the exchange rate.	wrong_exchange_rate_for_cash_withdrawal
+I can't verify my ID.	unable_to_verify_identity
+Can I get information on topping up?	top_up_by_card_charge
+Where is the top-up card verification code?	verify_top_up
+Please help!  The app won't let me cancel a money transfer.  I accidently sent money to an account that wasn't mine.  I need this cancelled immediately.	cancel_transfer
+I tried to top-up, why didn't it work?	top_up_failed
+Why is this beneficiary being rejected?	beneficiary_not_allowed
+When can I expect my card to arrive?	card_delivery_estimate
+Do you give refunds?	request_refund
+When can I expect to receive my new card?	card_delivery_estimate
+Why would an ATM swallow my card?	card_swallowed
+My top-up was cancelled; will I receive a refund?	top_up_reverted
+What are the top-up limits?	top_up_limits
+Can you tell me why my transfer is pending still?	pending_transfer
+I have a card payment that has been pending for some time and would like to know when it is going to go through.	pending_card_payment
+I need to change my home address.	edit_personal_details
+Is there a limit on top-ups?	top_up_limits
+If my card is going to expire this month, do I need to order a new one?	card_about_to_expire
+You operate in which countries?	country_support
+How can I replace an expired card?	card_about_to_expire
+Can I get an auto Top-up?	automatic_top_up
+Where can I find the source of my available money?	verify_source_of_funds
+Why was there an extra charge when I transferred money?	transfer_fee_charged
+I just moved to the US how do I get a card?	country_support
+I have one of your cards already, how do I link it?	card_linking
+The app is saying I made a withdrawl but I didn't.	cash_withdrawal_not_recognised
+How can I receive money from someone?	receiving_money
+Can I use it outside of Europe?	country_support
+Is a physical card also available	order_physical_card
+My passcode is not being accepted	passcode_forgotten
+How long will the transfer take?	pending_transfer
+Do you deal with EUR?	fiat_currency_support
+Is there any way to cancel a transfer?	cancel_transfer
+How come I got to pay to get my money from the ATM?	cash_withdrawal_charge
+Can I exchange between GBP and USD on the app?	exchange_via_app
+What do I do to get ahold of my own card?	order_physical_card
+Not living in same place, need to change details	edit_personal_details
+Why does my card continually get declined? I thought I had enough money in there but I've tried several times now and it still isn't working.	declined_transfer
+There is a payment I don't recognize	card_payment_not_recognised
+Google pay top up not working.	apple_pay_or_google_pay
+Is there a way I can get my ATM card back from the machine?	card_swallowed
+app does not recognize me	unable_to_verify_identity
+what happened to the money after i put in the wrong info and it got declined	topping_up_by_card
+I draw out money from your ATM during holidays, and was charged insanely. I wouldn't have done it, if i had a little sense about the shocking charges.	wrong_exchange_rate_for_cash_withdrawal
+I see a cash withdrawal in the app that I did not do.	cash_withdrawal_not_recognised
+How do I use American express to top up my account?	supported_cards_and_currencies
+I got charged and extra fee when I transferred money so why was I charged?	transfer_fee_charged
+Will I get charged for topping off my card?	top_up_by_card_charge
+Why is there an extra fee on my statement?	extra_charge_on_statement
+When should I expect my card to arrive?	card_delivery_estimate
+Why was I charged a fee when I withdrew money?	cash_withdrawal_charge
+My card will expire soon, do I need to order a new one?	card_about_to_expire
+Recently, a few weeks ago there was a transaction made on my account by some seller that I don't recognize. I am very certain that didn't happen  and will like for you to trace back to make sure.	direct_debit_payment_not_recognised
+The card can be used at which ATMs?	atm_support
+I topped up but the app denied it	top_up_failed
+I have transactions that I don't recognize - I think someone is using my card.	compromised_card
+How quickly can you get me my card?	card_delivery_estimate
+can you share card tracking number?	card_arrival
+I would like to change my address.	edit_personal_details
+Why do i have an extra fee on my statement?	extra_charge_on_statement
+There is a withdrawal on my account I didn't make.	cash_withdrawal_not_recognised
+Why can't I top up with a cheque?	top_up_by_cash_or_cheque
+How do I verify my identity?	verify_my_identity
+My transfer got declined.	declined_transfer
+Someone is using my account to do online shopping! Please freeze it asap	compromised_card
+Why is my top up not completing?	pending_top_up
+My cash withdrawal is showing as pending, why?	pending_cash_withdrawal
+Why doesn't my Google pay top up work?	apple_pay_or_google_pay
+My passcode won't work.	passcode_forgotten
+I don't remember my code to get into the app.	passcode_forgotten
+I was trying to top up my account and it isn't working	top_up_failed
+There is a transaction from my account that I don't recognize can you trace back the information so I can make sure it's something I did or not?	direct_debit_payment_not_recognised
+Is there a reason that my top-up is still pending?	pending_top_up
+It shows that the transfer on my account wasn't allowed.	beneficiary_not_allowed
+I can't find the card PIN.	get_physical_card
+What needs to be done to activate and use a card?	activate_my_card
+What are disposable virtual cards?	get_disposable_virtual_card
+Soon my card will expire, how do I get a new one?	card_about_to_expire
+I AM MISSING CASH FROM MY BANK ACCOUNT ACCORDING TO MY APP	cash_withdrawal_not_recognised
+What are the top-up fees for my card?	top_up_by_card_charge
+What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed.	pending_card_payment
+I deposited a check a few days ago and it's still not gone in! Please help me with this	balance_not_updated_after_cheque_or_cash_deposit
+Can you check the exchange rate on a cash transaction I did overseas	wrong_exchange_rate_for_cash_withdrawal
+This Direct Debit payment may not be right.	direct_debit_payment_not_recognised
+I noticed additional charges when transferring?	transfer_fee_charged
+How come my card payment is still pending?	pending_card_payment
+I need to report a stolen card	lost_or_stolen_card
+If my card expires next month, will I need to order a new one?	card_about_to_expire
+I used my card to top-up but the money is gone!	topping_up_by_card
+Why is the app showing a still pending message on a withdraw that has already been done?	pending_cash_withdrawal
+is apple pay eligible for top up	apple_pay_or_google_pay
+Can I have a refund for one of your products?	request_refund
+I don't know what this Direct Debit payment on my account is for.	direct_debit_payment_not_recognised
+What fiduciary currencies are supported for tenure and exchange?	fiat_currency_support
+I've notice I was charged for withdrawing cash, can you explain why?	cash_withdrawal_charge
+Is there a way I can get my card expedited?	card_arrival
+Is my pending cash withdrawal processed?	pending_cash_withdrawal
+If I am running low on credit can I auto top up?	automatic_top_up
+Why did I get charged for withdrawing cash?	cash_withdrawal_charge
+I moved.  I need to update my details.	edit_personal_details
+Where is the card I ordered 2 weeks ago?	card_arrival
+What is the disposable card for?	get_disposable_virtual_card
+Can I get money in my home currency at an ATM? I'm on vacation and don't have cash with me. This is cause for a bit of concern. Is it possible to withdraw here without additional cost?	wrong_exchange_rate_for_cash_withdrawal
+I want to top up by cheque	top_up_by_cash_or_cheque
+I recently bought something in foreign currency and I am unsure of the exchange rate. Is this rate applied correctly?	card_payment_wrong_exchange_rate
+Is it ok for a friend to send me money?	receiving_money
+I need to know this, where do my funds come from?	verify_source_of_funds
+there is money in my account that i didnt put there	cash_withdrawal_not_recognised
+Is there supposed to be a fee for the transfer I made?	transfer_fee_charged
+Am I allowed to give my daughter one of my cards to use?	getting_spare_card
+where did my funds come from?	verify_source_of_funds
+Why was the transfer declined?	declined_transfer
+There is a direct debit charge on my account that I don't recognize.	direct_debit_payment_not_recognised
+Any place that takes Mastercard would be fine.	card_acceptance
+Why is my beneficiary not being allowed to get payment services?	beneficiary_not_allowed
+The transactions showing up are strange, I think my card was used without me knowing.	compromised_card
+Do I pay extra for exchange?	exchange_charge
+What are my options for topping up, automatic and/or manual?	automatic_top_up
+There are some strange charges on my card that I didn't make from a few days ago.  Is my card stolen and if so should I cancel it?  Will I get refunded the charges?	card_payment_not_recognised
+How do I know when my card will expire?	card_about_to_expire
+Why did the ATM eat my card?	card_swallowed
+Is there a charge for top-ups?	top_up_by_card_charge
+Why is my withdrawl to cash still pending?	pending_cash_withdrawal
+Can you help me get rid of my account?	terminate_account
+The ATM wouldn't let me withdraw cash.	declined_cash_withdrawal
+my money, where is it coming from?	verify_source_of_funds
+Help me order a new card that's going to be expired soon.	card_about_to_expire
+Is there any way to Auto top-up?	automatic_top_up
+I don't recognize a charge on my statement.	card_payment_not_recognised
+I need assistance to activate the card on my account.	activate_my_card
+Transaction showing up many times.	transaction_charged_twice
+How do I verify the top-up card?	verify_top_up
+Cash withdrawal still pending?	pending_cash_withdrawal
+Please explain why my transfer attempt was declined. Thank you.	declined_transfer
+Can I get an actual card	order_physical_card
+I don't want the item, I bought it on accident, can I get a refund?	request_refund
+Please delete my account, this company is not working for me!	terminate_account
+Can I top up by cheque?	top_up_by_cash_or_cheque
+My card is about to expire and I need to know how much it costs and how long it takes to get a new one.	card_about_to_expire
+I might need AUD instead of GBP, how to change?	exchange_via_app
+As far as courtries go which ones are supported?	country_support
+My card is missing.  Please help.	lost_or_stolen_card
+Why would a cash withdrawal still be pending?	pending_cash_withdrawal
+A transfer is pending.	pending_transfer
+Why do I need to verify my funds?	verify_source_of_funds
+I made a mistake with a transaction!	cancel_transfer
+I just had my card get declined at the ATM! I need to get money out but I am unable to.  Why has this happened?	declined_cash_withdrawal
+The cash I got at the ATM is still in my account.	pending_cash_withdrawal
+How do I link this new card?	card_linking
+I have been trying unsuccessfully to top-up my card.  Is the system down or not working properly?	top_up_failed
+In the app I see a direct debit that I don't recognize.	direct_debit_payment_not_recognised
+How far is the closest ATM from me?	atm_support
+Why is there an extra fee charged?	extra_charge_on_statement
+Google pay and top up, I want it, can I get it?	apple_pay_or_google_pay
+What types of top-up methods do you accept?	top_up_by_cash_or_cheque
+Show me how to verify my identity?	verify_my_identity
+I would like to link my card. How do I do it?	card_linking
+Can I get a card even though I live in the US	country_support
+I can't activate my card?	activate_my_card
+I think I lost my phone.  Is there a way to prevent anyone from getting into my account on it?	lost_or_stolen_phone
+Why was I not able to take cash from the ATM?	declined_cash_withdrawal
+I tried to get some with-drawls but the machine didn't work. The transaction still seems in progress.Seems like  something is wrong,I don't want to be charged for Transaction i did not make.	pending_cash_withdrawal
+This company is bad, delete my account now.	terminate_account
+Can I top up with Google Pay?	apple_pay_or_google_pay
+The ATM did not allow me to withdraw	declined_cash_withdrawal
+where can user find pin?	get_physical_card
+I do not recongize a payment in my account.	card_payment_not_recognised
+Please help me with my card.  It won't activate.	activate_my_card
+I see a direct debit transaction in the app that is not mine	direct_debit_payment_not_recognised
+What fee is included if I top up by card?	top_up_by_card_charge
+My top up has been pending for an hour already, and I really need this to go through as soon as possible.  Can you help?	pending_top_up
+I just got a new card how do I get it to start working?	activate_my_card
+What's wrong with my ID? I can't verify it.	unable_to_verify_identity
+If I want my son to have his own account is that possible?	age_limit
+I don't find your services useful anymore, how do I delete my account?	terminate_account
+Has my top-up gone through?	top_up_reverted
+I tried using my ATM card at your Notting Hill location today.  It did not work.  Am I doing something wrong?	declined_cash_withdrawal
+Who do I talk to for transactions debited twice?	transaction_charged_twice
+Hello, I'm a brand new customer and tried topping up for the first time today. It has been pending for half an hour and doesn't seem to be working. Please resolve this.	pending_top_up
+How can I verify my source of funds?	verify_source_of_funds
+Can other people top up my account?	topping_up_by_card
+I've forgotten my passcode. Can I reset?	passcode_forgotten
+I can't get money out of the ATM	declined_cash_withdrawal
+I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.	declined_transfer
+How old do you have to be to get an account?	age_limit
+Why will my transfer not go through?!  Keep getting an error message.	beneficiary_not_allowed
+When my card expires soon, how fast is the replacement card sent and what are the costs?	card_about_to_expire
+I can see an extra 1£ charge on my app. Why did you charge me extra?	extra_charge_on_statement
+What would be a reason my transfer got declined?	declined_transfer
+How do I verify my top up?	verify_top_up
+Why did my top-up not work?	top_up_failed
+how long does it take to post atm with drawl	pending_cash_withdrawal
+The exchange rate for my cash withdrawal was incorrect	wrong_exchange_rate_for_cash_withdrawal
+I'm cancelling this charge. I still have not received what I bought from these people a while ago.	request_refund
+I want to end my account	terminate_account
+Why do I get declined when I try to withdraw cash?	declined_cash_withdrawal
+Help! I need to cancel a transaction.	cancel_transfer
+Will I get charged fees when I add money with an international card?	top_up_by_card_charge
+My card never arrived.	card_arrival
+Can you please make my top up go through as soon as possible. I really need the money and it has been pending for an hour already.	pending_top_up
+I already paid to top-up but the funds aren't available yet, where are they?	pending_top_up
+I was told to verify my identity, how do I do that?	verify_my_identity
+I made a transaction to the wrong account!	cancel_transfer
+What are the cards and currencies that you support?	supported_cards_and_currencies
+Why has my card payment not yet been applied to my account?	pending_card_payment
+My ATM withdrawal was declined.	declined_cash_withdrawal
+I'm pretty sure my top up failed. How do I fix this?	top_up_failed
+Looks like my card payment was duplicated. I went to pay at the store earlier, got declined once,second time it works. App still stays pending for one of the payments. Can you please remove one of them as it's wrong and clearly was declined?	transaction_charged_twice
+Where should my card work?	card_acceptance
+How do I transfer money using a credit card?	topping_up_by_card
+When I bought something abroad, the exchange rate was wrong.	card_payment_wrong_exchange_rate
+I just topped up, and the app denied it.	top_up_failed
+I have a new card and I need to activate it.	activate_my_card
+I don't recognise a cash withdrawal	cash_withdrawal_not_recognised
+Why hasn't my top-up been completed?	pending_top_up
+Cash deposit to my account but it has not appeared.	balance_not_updated_after_cheque_or_cash_deposit
+Salary in GBP has been received. Does it need to be configured into another place?	receiving_money
+I just got my card.  It's not linked yet--how do I do that?	card_linking
+My transfer was declined, why is that?	declined_transfer
+Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?	card_payment_wrong_exchange_rate
+My phone is not with me at the moment so I will not be able to access the app.	lost_or_stolen_phone
+Am I able to choose my card?	visa_or_mastercard
+I've just come back from an eating holiday in the USA and Canada and have SO many pending and duplicated transactions on my account.  I think there is something wrong, can you look in to it please?	transaction_charged_twice
+Can someone please help assist me by explaining to me why my pass-code is not working?	passcode_forgotten
+I tried to transfer money but it said it wasn't possible? I've done this before and it worked why isn't it working now?	beneficiary_not_allowed
+How old do my kids have to be use this?	age_limit
+Why haven't I gotten my payment yet?	pending_card_payment
+why did i get declined transfer	declined_transfer
+Please stop my purchase.	request_refund
+It appears my top-up has not gone through.	pending_top_up
+Where can I check out the source of available funds in my account?	verify_source_of_funds
+What is the process for activating my card?	activate_my_card
+When will I recieve my new card?	card_arrival
+I want to have an item refunded can I do that?	request_refund
+I shouldn't be charged any fee for transferring .	transfer_fee_charged
+Send my card as soon as you are able to.	card_delivery_estimate
+When going to the ATM to take out some cash today my withdrawal was  declined.  I need to fix this problem as soon as possible. whats going on?	declined_cash_withdrawal
+I'd prefer a Mastercard.	visa_or_mastercard
+I needed cash today, so I used another provider's ATM, and when I attempted to withdraw, it declined. I just checked it out and I'm still showing my account with that amount pending! I didn't take any money out, it was declined, so I don't want that to be processed as a withdrawal.	pending_cash_withdrawal
+There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?	compromised_card
+How do I report possible fraudulent activity on my account?	compromised_card
+I put money into my account in the form of a cheque, but my balance did not change.	balance_not_updated_after_cheque_or_cash_deposit
+I am still waiting for the cash to be returned from a cheque I deposited!	balance_not_updated_after_cheque_or_cash_deposit
+My cash withdrawal shows as pending still.	pending_cash_withdrawal
+What do I do when my card is about to expire?	card_about_to_expire
+I've been waiting for a pending transfer to go through for a while now, and don't see any reason why I've been waiting this long.  I know that I have the correct account details, so that isn't the problem.	pending_transfer
+When will the transfer go through?	pending_transfer
+How can I edit my personal details in the app?	edit_personal_details
+Hello I am unable to exchange the crypto currency through the app, i am very keen to buy. Please let me know the issue.    interested buying crypto currency but i am unable to purchase it through the application,i do want to do the exchange, Could you please let me know what is the problem?	beneficiary_not_allowed
+How do I get my cash withdrawal to show?	pending_cash_withdrawal
+Do you convert to Euro?	fiat_currency_support
+someone is using my account	compromised_card
+How long does it take for a purchase to go from pending to authorised?	pending_card_payment
+I want to close my account. The service you provide is unsatisfactory to me.	terminate_account
+I made a cash deposit, but it hasn't shown up in my balance yet.	balance_not_updated_after_cheque_or_cash_deposit
+I have heard about these disposable virtual cards but don't understand how they work.	get_disposable_virtual_card
+What do I need to bring for identification?	unable_to_verify_identity
+What is my password?	passcode_forgotten
+Last week I put a cash deposit into my account and it is still isn't there.	balance_not_updated_after_cheque_or_cash_deposit
+How can I delete my account?	terminate_account
+I need to know how much it costs to transfer funds.	transfer_fee_charged
+How come there is an extra fee on my statement?	extra_charge_on_statement
+Can I get my card fast tracked?	card_delivery_estimate
+I'd like my account to be deleted. I'm not satisfied with the service you provide.	terminate_account
+Please verify my source of funds.	verify_source_of_funds
+Why is there a pending transaction on my card?	pending_card_payment
+Can I deposit a check?	top_up_by_cash_or_cheque
+Why do I have two charges It should only be one charge?	transaction_charged_twice
+What is the delivery time for US?	card_delivery_estimate
+Can I use American Express?	supported_cards_and_currencies
+Where can I verify my identity?	verify_my_identity
+My card payment has had the status of pending forever. What is the issue? It should have gone through at some point.	pending_card_payment
+How do I get my card on the app?	card_linking
+can I top up an apple pay?	apple_pay_or_google_pay
+Do you know if there is a tracking number for the new card you sent me?	card_arrival
+How long will my top-up be pending?	pending_top_up
+I just made a top-up but it shows as pending! I use your service all the time and have never had a problem before. Why does it keep showing up as pending?	pending_top_up
+Why couldn't I get cash from an ATM?	declined_cash_withdrawal
+My ATM withdrawal was cancelled	declined_cash_withdrawal
+Why did my top-up fail?	top_up_failed
+The app won't let me top up my account	top_up_failed
+I would like to receive a refund for something I bought.	request_refund
+I can't get a contactless payment to work.	contactless_not_working
+What type of fiat currencies do you support?	fiat_currency_support
+Can i get money in my home currency at my ATM ?I am on holiday and bit concerned because i do not have any cash with me .Is it possible to withdraw without any additional cost.	wrong_exchange_rate_for_cash_withdrawal
+I got a extra €1 fee in my statement	extra_charge_on_statement
+Is there somewhere I can send a check to add to my account?	top_up_by_cash_or_cheque
+Is there a way to lookup where funds came from?	verify_source_of_funds
+Where do I go to terminate my account?	terminate_account
+Is my card actually working? It's the first time I tried using it	declined_cash_withdrawal
+How do I transfer funds directly from my credit card?	topping_up_by_card
+Why can't I use my American Express with Apple Pay to top up my account?	apple_pay_or_google_pay
+Is there a fee when I add money to my international card?	top_up_by_card_charge
+I tried to top up, but it didn't finish.	pending_top_up
+i can not see my top up	topping_up_by_card
+I need a card reactivation, I had reported my card lost but I ran across it in my jacket.	card_linking
+Is there any reason why my card didn't work when I tried to top up?	top_up_failed
+My top up is still pending	pending_top_up
+If I want a friend to top off my account, can they?	topping_up_by_card
+Can you tell me why my top-up was canceled?	top_up_reverted
+I purchased something in a foreign currency but the rate applied is wrong	card_payment_wrong_exchange_rate
+Which fiat currencies can I use through this app?	fiat_currency_support
+Why am I not allowed to transfer money to my cryptocurrency exchange?	beneficiary_not_allowed
+What do I need to do to activate my card?	activate_my_card
+My friend deposited $100 into my account, but it is not showing up!	balance_not_updated_after_cheque_or_cash_deposit
+When is a payment I made with my card going to clear>	pending_card_payment
+How do i cancel a charge?	cancel_transfer
+What commission do you take for currency exchage?	exchange_charge
+I notice there's a pending payment on my card.	pending_card_payment
+Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.	card_delivery_estimate
+Can I get a few more physical cards?	getting_spare_card
+Are US credit cards accepted?	supported_cards_and_currencies
+Tell me how to replace my expired card.	card_about_to_expire
+My contactless payments don't work.	contactless_not_working
+I attempted to complete a topup, and I thought all was well, but now the money is gone again. Has there been a glitch?	top_up_reverted
+Can my teenager have an account?	age_limit
+what is the most i can top up?	top_up_limits
+Am I charged more for using the ATM?	cash_withdrawal_charge
+What is the reason my top-up is still pending?	pending_top_up
+A cash withdrawal is showing up that I didn't do.	cash_withdrawal_not_recognised
+What are the steps in order to activate my new card?	activate_my_card
+after i got married i need to change my name	edit_personal_details
+I need a refund and cancel a transaction on an item I purchased and i need it as soon as possible, please!	request_refund
+how to get new card?	contactless_not_working
+Why can't I take money from my account?	declined_cash_withdrawal
